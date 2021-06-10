@@ -1,0 +1,46 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}Modification de la publication numéro{{ post.id }}{% endblock %}
+
+{% form_theme form _self %}
+
+{% block body %}
+
+    <div class="container-fluid">
+       <br>
+       <br>
+       <br>
+        <h1>Modification de la publication {{ post.content }}</h1>
+
+        {{ form_start(form) }}
+        <div class="row">
+            <div class="col">
+                <div class="card bg-light">
+                    <div class="card-header">
+                        <h4 class="card-title">Corriger la publication?</h4>
+                    </div>
+
+                    <div class="card-body">
+                        {{ form_widget(form) }}
+
+
+                        <button type="submit" class="btn btn-primary">
+                            <i class="fas fa-check"></i>
+                         <a   >Enregistrer les Modifications</a>
+                        </button>
+
+                    </div>
+                </div>
+            </div>
+
+        </div>
+
+
+        {{ form_end(form) }}
+    </div>
+
+{% endblock %}
+
+
+
+

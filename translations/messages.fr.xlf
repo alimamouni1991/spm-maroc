@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+    <file source-language="fr" target-language="fr" datatype="plaintext" original="file.ext">
+        <body>
+            <trans-unit id="menu.signin">
+                <source>Connexion</source>
+                <target>Connexion</target>
+            </trans-unit>
+            <trans-unit id="menu.signout">
+                <source>Déconnexion</source>
+                <target>Déconnexion</target>
+            </trans-unit>
+            <trans-unit id="menu.notifications">
+                <source>Publications</source>
+                <target>Publications</target>
+            </trans-unit>
+            <trans-unit id="menu.add">
+                <source>Gestion des Utilisateurs</source>
+                <target>Gestion des Utilisateurs</target>
+            </trans-unit>
+            <trans-unit id="post.recent">
+                <source>Gestion des Annonces</source>
+                <target>Gestion des Annonces</target>
+            </trans-unit>
+            <trans-unit id="register.terms">
+                <source>Exprimez vous</source>
+                <target>Exprimez vous</target>
+            </trans-unit>
+            <trans-unit id="register.username">
+                <source>Nom d'utilisateur</source>
+                <target>Nom d'utilisateur</target>
+            </trans-unit>
+            <trans-unit id="register.password">
+                <source>Mot de passe</source>
+                <target>Mot de passe</target>
+            </trans-unit>
+            <trans-unit id="register.repeated_password">
+                <source>Mot de passé</source>
+                <target>Mot de passé</target>
+            </trans-unit>
+            <trans-unit id="register.full_name">
+                <source>Nom et prénom</source>
+                <target>Nom et prénom</target>
+            </trans-unit>
+            <trans-unit id="register.register">
+                <source>Créer un compte</source>
+                <target>Créer un compte</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

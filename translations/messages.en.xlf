@@ -1,0 +1,1859 @@
+<?xml version="1.0"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+    <file source-language="fr" target-language="en" datatype="plaintext" original="file.ext">
+        <body>
+                        <trans-unit id="menu.home">
+                            <source>Accueil</source>
+                            <target>Home</target>
+                        </trans-unit>
+                        <trans-unit id="menu.signin">
+                            <source>Connexion</source>
+                            <target>Sign in</target>
+                        </trans-unit>
+                        <trans-unit id="menu.signout">
+                            <source>Déconnexion</source>
+                            <target>Sign out</target>
+                        </trans-unit>
+                        <trans-unit id="menu.notifications">
+                            <source>Publications</source>
+                            <target>Publications</target>
+                        </trans-unit>
+                        <trans-unit id="menu.add">
+                            <source>Gestion des Utilisateurs</source>
+                            <target>Manage Users</target>
+                        </trans-unit>
+                        <trans-unit id="post.recent">
+                            <source>Gestion des Annonces</source>
+                            <target>Manage Annonces</target>
+                        </trans-unit>
+                        <trans-unit id="register.terms">
+                            <source>Exprimez vous</source>
+                            <target>Express yourself</target>
+                        </trans-unit>
+                        <trans-unit id="register.username">
+                            <source>Nom d'utilisateur</source>
+                            <target>Username</target>
+                        </trans-unit>
+                        <trans-unit id="register.password">
+                            <source>Mot de passe</source>
+                            <target>Password</target>
+                        </trans-unit>
+                        <trans-unit id="register.repeated_password">
+                            <source>Mot de passé</source>
+                            <target>Repated password</target>
+                        </trans-unit>
+                        <trans-unit id="register.full_name">
+                            <source>Nom et prénom</source>
+                            <target>Full name</target>
+                        </trans-unit>
+                        <trans-unit id="register.register">
+                            <source>Créer un compte</source>
+                            <target>Register</target>
+                        </trans-unit>
+                        <trans-unit id="register.buts">
+                            <source>BUTS ET COMPOSITION DE LA SPM</source>
+                            <target>AIMS AND COMPOSITION OF THE SPM</target>
+                        </trans-unit>
+
+                        <trans-unit id="register.societe">
+                            <source>La Sociéte Psychanalitique Marocaine</source>
+                            <target>The Moroccan Psychoanalytic Society</target>
+                        </trans-unit>
+
+
+
+                         <trans-unit id="register.vote">
+                            <source>voté le 07/12/2001, et modifié lors de l'assemblée générale extraordinaire du 02/02/2008</source>
+                            <target>voted on 07/12/2001, and modified at the extraordinary general meeting of 02/02/2008</target>
+                        </trans-unit>
+
+                         <trans-unit id="register.presentation">
+                            <source>Présentation</source>
+                            <target>Presentation</target>
+                        </trans-unit>
+
+                        <trans-unit id="register.Status">
+                            <source>Status</source>
+                            <target>Status</target>
+                        </trans-unit>
+
+
+
+
+
+            <trans-unit id="register.art1">
+                <source>Fondée en Décembre 2001, la Société Psychanalytique Marocaine s’est donnée pour but de</source>
+                <target>Founded in December 2001, the Moroccan Psychoanalytic Society has set itself the goal of</target>
+            </trans-unit>
+
+            <trans-unit id="register.art2">
+                <source>promouvoir et de développer la psychanalyse au Maroc. Elle vise à assurer la formation des</source>
+                <target>promote and develop psychoanalysis in Morocco. It aims to ensure the training of</target>
+            </trans-unit>
+            <trans-unit id="register.art3">
+                <source>psychanalystes tout en veillant au respect de l’éthique. Elle se propose également d’être un</source>
+                <target>psychoanalysts while ensuring respect for ethics. She also proposes to be a</target>
+            </trans-unit>
+
+            <trans-unit id="register.ar3">
+                <source>lieu de transmission de la psychanalyse, ouvert à tous et non aux seuls initiés lieu de</source>
+                <target>
+                    place of transmission of psychoanalysis, open to all and not only to initiates place of</target>
+            </trans-unit>
+
+            <trans-unit id="register.art4">
+                <source>diffusion d’un savoir dont la particularité est de n’être jamais constitué une fois pour</source>
+                <target>dissemination of knowledge, the particularity of which is that it has never been constituted once and for</target>
+            </trans-unit>
+            <trans-unit id="register.art5">
+                <source>toutes mais qui est sans cesse à recréer à la lumière de ce que nous enseigne l’inconscient</source>
+                <target>all but which is constantly to be recreated in the light of what the unconscious teaches us</target>
+            </trans-unit>
+
+            <trans-unit id="register.art6">
+                <source>et au travers aussi bien de la clinique que de la réalité socio-culturelle environnante</source>
+                <target>and through both the clinic and the surrounding socio-cultural reality</target>
+            </trans-unit>
+
+            <trans-unit id="register.art7">
+                <source>extraordinaire du 02/02/2008</source>
+                <target>
+                    extraordinary of 02/02/2008
+                </target>
+            </trans-unit>
+
+            <trans-unit id="register.art8">
+                <source>voté le 07/12/2001, et modifié lors de l'assemblée générale</source>
+                <target>voted on 07/12/2001, and modified during the general assembly
+                </target>
+            </trans-unit>
+
+
+            <trans-unit id="register.art21">
+                <source>A l'initiative des membres fondateurs réunis en Assemblée Constitutive le 07 décembre 2001</source>
+                <target>On the initiative of the founding members meeting in a Constitutive Assembly on December 7, 2001</target>
+            </trans-unit>
+
+            <trans-unit id="register.art22">
+                <source>à Dar M'rini - Rabat, il est créé une Association dénommée Société Psychanalytique Marocaine</source>
+                <target>in Dar M'rini - Rabat, an Association called the Moroccan Psychoanalytic Society is created
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art23">
+                <source>onformément aux dispositions du
+                </source>
+                <target>
+                    in accordance with the provisions of
+                </target>
+            </trans-unit>
+
+            <trans-unit id="register.art24">
+                <source>novembre 1958) tel qu'il a été modifié par le dahir portant loi nº 1-73-285 du 6 Rabi' I</source>
+                <target>November 1958) as amended by the Dahir on Law No. 1-73-285 of 6 Rabi 'I</target>
+            </trans-unit>
+            <trans-unit id="register.art25">
+                <source>1393 (10 avril 1973) réglementant le droit d'association. Les membres fondateurs sont les</source>
+                <target>1393 (April 10, 1973) regulating the right of association. The founding members are the
+                </target>
+            </trans-unit>
+
+            <trans-unit id="register.art26">
+                <source>personnes suivantes : Abdel Jalil BENNANI, Khalid EL ALJ, Abdeslam DACHMI, Mohamed JAMAI,</source>
+                <target>following people: Abdel Jalil BENNANI, Khalid EL ALJ, Abdeslam DACHMI, Mohamed JAMAI,</target>
+            </trans-unit>
+
+            <trans-unit id="register.art27">
+                <source>Ahmed Farid MERINI, Abdellah OUARDINI, Mohamed Hachem TYAL. Le siège de la SPM est situé à</source>
+                <target>
+                    Ahmed Farid MERINI, Abdellah OUARDINI, Mohamed Hachem TYAL. The headquarters of the SPM are located at
+                </target>
+            </trans-unit>
+
+            <trans-unit id="register.art28">
+                <source>Rabat et domicilié à la Boite Postale de l'Association. Il pourra être transféré en tous</source>
+                <target>Rabat and domiciled at the Association Post Box. It can be transferred in all
+
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art29">
+                <source>lieux dans la même ville ou dans une autre ville par décision de l'Assemblée Générale</source>
+                <target>
+                    places in the same city or in another city by decision of the General Assembly
+
+                </target>
+            </trans-unit>
+
+            <trans-unit id="register.art30">
+                <source>Ordinaire.</source>
+                <target>
+                    Ordinary.
+                </target>
+            </trans-unit>
+
+            <trans-unit id="register.art31">
+                <source>Rabat et domicilié à la Boite Postale de l'Association. Il pourra être transféré en tous</source>
+                <target>Rabat and domiciled at the Association Post Box. It can be transferred in all
+
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art32">
+                <source>lieux dans la même ville ou dans une autre ville par décision de l'Assemblée Générale</source>
+                <target>
+                    places in the same city or in another city by decision of the General Assembly
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art33">
+                <source>Ordinaire.</source>
+                <target>
+                    Ordinary.
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art34">
+                <source>Rabat et domicilié à la Boite Postale de l'Association. Il pourra être transféré en tous</source>
+                <target>Rabat and domiciled at the Association Post Box. It can be transferred in all
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art35">
+                <source>lieux dans la même ville ou dans une autre ville par décision de l'Assemblée Générale</source>
+                <target>
+                    places in the same city or in another city by decision of the General Assembly
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art36">
+                <source>Ordinaire.</source>
+                <target>
+                    Ordinary.
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art37">
+                <source>La SPM veillera à </source>
+                <target>SPM will ensure
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art38">
+                <source>d'assurer la formation des psychanalystes au Maroc ;</source>
+                <target>
+                    to ensure the training of psychoanalysts in Morocco;
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art39">
+                <source>de promouvoir et de développer la psychanalyse au Maroc ;</source>
+                <target>
+                    to promote and develop psychoanalysis in Morocco;
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art40">
+                <source>de veiller au respect de l'éthique dans le cadre de cette formation.</source>
+                <target>to ensure respect for ethics within the framework of this training.
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art41">
+                <source>Pour parvenir à ses objectifs, la SPM se propose de mettre en place les moyens pour assurer</source>
+                <target>
+                        To achieve its objectives, the SPM proposes to put in place the means to ensure
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art42">
+                <source>la psychanalyse personnelle </source>
+                <target>
+                    personal psychoanalysis
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art43">
+                <source>la pratique de " contrôle " ;</source>
+                <target>
+                    the practice of "control" ;
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art44">
+                <source>la formation théorique ;</source>
+                <target>
+                    theoretical training;
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art45">
+                <source>l'habilitation à la pratique de la cure psychanalytique par une commission composée de trois</source>
+                <target>
+                    accreditation to the practice of psychoanalytic treatment by a commission made up of three
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art46">
+                <source>praticiens confirmés.</source>
+                <target>
+                    experienced practitioners.
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art47">
+                <source>Les praticiens qui seront amenés à dispenser une formation seront soit des praticiens</source>
+                <target>
+                    The practitioners who will be required to provide training will either be practitioners
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art48">
+                <source>marocains, soit des praticiens étrangers. La SPM vise ainsi à faire bénéficier les futurs</source>
+                <target>
+                    Moroccans, or foreign practitioners. The SPM thus aims to benefit future
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art49">
+                <source>psychanalystes de la formation la plus ouverte et la plus large possible, tenant compte en</source>
+                <target>
+                    psychoanalysts with the most open and broadest possible training, taking into account
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art50">
+                <source>cela des différents développements qu'a connu la psychanalyse depuis sa fondation par</source>
+                <target>
+                    that of the different developments that psychoanalysis has known since its foundation by
+                </target>
+            </trans-unit>
+
+
+
+
+            <trans-unit id="register.art51">
+                <source>La SPM veillera à </source>
+                <target>
+                    SPM will ensure
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art52">
+                <source>mettre en place les documents de base réglementant les différentes activités de</source>
+                <target>
+                    put in place the basic documents regulating the various activities of
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art53">
+                <source>l'Association.</source>
+                <target>
+                    the Association.
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art54">
+                <source>instituer des groupes de travail (cartels) composés de quatre personnes au moins, en vue</source>
+                <target>
+                    set up working groups (cartels) composed of at least four people, with a view to
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art55">
+                <source>d'assurer un travail régulier entre les membres de l'Association.</source>
+                <target>
+                    to ensure regular work between the members of the Association.
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art56">
+                <source>internationaux.</source>
+                <target>
+                    international
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art57">
+                <source>organiser des séminaires, des conférences, des colloques, des congrès nationaux et</source>
+                <target>
+                    organize seminars, conferences, colloquiums, national congresses and
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art58">
+                <source>organiser la tenue de journées annuelles de l'Association et, si possible, semestrielles.</source>
+                <target>
+                    organize the holding of annual days of the Association and, if possible, semi-annual.
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art59">
+                <source>assurer la publication des travaux de ses membres qui réunissent les conditions de</source>
+                <target>
+                    ensure the publication of the work of its members who meet the conditions of
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art60">
+                <source>publication.</source>
+                <target>
+                    publication.
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art61">
+                <source>promouvoir différentes actions culturelles au profit de ses membres.</source>
+                <target>
+                    promote various cultural actions for the benefit of its members.
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art62">
+                <source>développer le champ de la recherche en psychanalyse.</source>
+                <target>
+                    develop the field of research in psychoanalysis.
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art63">
+                <source>encourager le travail sur les traductions françaises, anglaises ou espagnoles de textes</source>
+                <target>
+                    encourage work on French, English or Spanish translations of texts
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art64">
+                <source>psychanalytiques allemands. Elle favorisera également toute initiative susceptible d'aider à</source>
+                <target>
+                    German psychoanalytics. It will also promote any initiative likely to help
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art65">
+                <source>la traduction en arabe des textes psychanalytiques.</source>
+                <target>
+                    the translation into Arabic of psychoanalytic texts.
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art66">
+                <source>assurer des contacts périodiques avec tous les organismes ou associations ayant des</source>
+                <target>
+                    ensure periodic contacts with all organizations or associations having
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art67">
+                <source>activités similaires.</source>
+                <target>
+                    similar activities.
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art68">
+                <source>créer une bibliothèque et se doter d'une banque de données informatisée.</source>
+                <target>
+                    create a library and acquire a computerized database.
+                </target>
+            </trans-unit>
+
+            <trans-unit id="register.art69">
+                <source>Les Membres Adhérents de la</source>
+                <target>
+                  Associate Members of
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art70">
+                <source>Peuvent être Membres Adhérents de la SPM :</source>
+                <target>
+                    The following can be Associate Members of the SPM:
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art71">
+                <source>les praticiens de la santé mentale au Maroc ;</source>
+                <target>
+                    mental health practitioners in Morocco;
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art72">
+                <source>les psychanalystes exerçant à l'étranger et inscrits dans un processus de formation</source>
+                <target>
+                    psychoanalysts working abroad and enrolled in a training process
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art73">
+                <source>analytique et dont la pratique fait l'objet d'une reconnaissance, soit dans le cadre d'une</source>
+                <target>
+                    analytical and whose practice is recognized, either within the framework of a
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art74">
+                <source>Pour être Membre Adhérent, il faut présenter sa candidature au Bureau de l'Association, être</source>
+                <target>
+                    To be an Adherent Member, you must submit your application to the Bureau of the Association, be
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art75">
+                <source>agréé par celui-ci, avoir payé sa cotisation annuelle et se soumettre aux décisions de</source>
+                <target>
+                    approved by it, have paid its annual subscription and submit to the decisions of
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art76">
+                <source>l'Association conformément aux dispositions statutaires et réglementaires.</source>
+                <target>
+                    the Association in accordance with statutory and regulatory provisions.
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art77">
+                <source>assurer la publication des travaux de ses membres qui réunissent les conditions de</source>
+                <target>
+                    ensure the publication of the work of its members who meet the conditions of
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art78">
+                <source>Seuls les membres adhérents sont habilités à voter dans les différentes institutions de la</source>
+                <target>
+                    Only adherent members are entitled to vote in the various institutions of the
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art79">
+                <source>SPM (Assemblée Générale Ordinaire, Assemblée Générale Extraordinaire…)</source>
+                <target>
+                    SPM (Ordinary General Meeting, Extraordinary General Meeting, etc.)
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art80">
+                <source>Les Membres Associés de la SPM :</source>
+                <target>
+                    SPM Associate Members:
+
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art81">
+                <source>Peuvent être Membres Associés :</source>
+                <target>
+                    Can be Associate Members:
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art82">
+                <source>les personnes qui, par leurs préoccupations professionnelles ou par leurs recherches</source>
+                <target>
+                    people who, through their professional concerns or through their research
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art83">
+                <source>personnelles sont intéressées par la psychanalyse ;</source>
+                <target>
+                    people are interested in psychoanalysis;
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art84">
+                <source>les étudiants en formation en psychiatrie, en psychologie ou dans une autre branche de la</source>
+                <target>
+                    students in training in psychiatry, psychology or another branch of
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art85">
+                <source>santé mentale.</source>
+                <target>
+                    Mental Health.
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art86">
+                <source>Pour être Membre Associé, il est nécessaire d'avoir le parrainage de deux membres du Bureau.</source>
+                <target>
+                    To be an Associate Member, it is necessary to have the sponsorship of two members of the Bureau.
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art87">
+                <source>Les Membres associés n'ont pas de voix élective. Les Membres Associés doivent s'acquitter</source>
+                <target>
+                    Associate Members do not have an elective vote. Associate Members must pay
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art88">
+                <source>d'une cotisation annuelle dont le montant sera fixé par le Bureau.</source>
+                <target>
+                    an annual subscription, the amount of which will be fixed by the Bureau.
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art89">
+                <source>Les Membres Fondateurs :</source>
+                <target>
+                    The Founding Members:
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art90">
+                <source>Ce sont les personnes ayant créé l'Association.</source>
+                <target>
+                    These are the people who created the Association.
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art91">
+                <source>Les Membres Bienfaiteurs :</source>
+                <target>
+                    Benefactor Members:
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art92">
+                <source>Ce sont les personnes qui apportent leur soutien moral, matériel ou technique à</source>
+                <target>
+                    These are the people who provide moral, material or technical support to
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art93">
+                <source>l'Association.</source>
+                <target>
+                    the Association.
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art94">
+                <source>Pour être Membre Bienfaiteur, il faut être agréé par le Bureau et avoir réglé sa cotisation</source>
+                <target>
+                    To be a Benefactor Member, you must be approved by the Bureau and have paid your subscription.
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art95">
+                <source>annuelle.</source>
+                <target>
+                    annual.
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art96">
+                <source>Les Membres Honoraires :</source>
+                <target>
+                    Honorary Members:
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art97">
+                <source>Ce sont les personnes qui se sont distinguées par leurs travaux et qui soutiennent</source>
+                <target>
+                    These are the people who have distinguished themselves by their work and who support
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art98">
+                <source>Ils seront choisis sur proposition du Bureau.</source>
+                <target>
+                    They will be chosen on the proposal of the Bureau.
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art99">
+                <source>Les Membres Correspondants :</source>
+                <target>
+                    Corresponding Members:
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art100">
+                <source>Ce sont des personnes qui sont chargées de diffuser les travaux de l'Association et</source>
+                <target>
+                    These are the people who are responsible for disseminating the work of the Association and
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art101">
+                <source>favoriser les relations et les échanges avec d'autres Associations au niveau international.</source>
+                <target>
+                    promote relations and exchanges with other Associations at the international level.
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art102">
+                <source>Ils peuvent être proposés par le Bureau ou admis, suite à leur propre demande, après</source>
+                <target>
+                    They can be proposed by the Bureau or admitted, following their own request, after
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art103">
+                <source>acceptation du Bureau.</source>
+                <target>
+                    acceptance of the Bureau.
+                </target>
+            </trans-unit>
+
+
+
+            <trans-unit id="register.art104">
+                <source>La qualité de Membre Adhérent de la SPM se perd : par décès  par démission</source>
+                <target>
+                    The quality of Adherent Member of the SPM is lost: by death by resignation
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art105">
+                <source>par radiation prononcée par le Bureau aux 2/3 de ses voix, soit pour refus ou défaut de</source>
+                <target>
+                    by striking off pronounced by the Bureau by 2/3 of its votes, either for refusal or failure to
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art106">
+                <source>paiement régulier des cotisations, soit pour motif grave, l'intéressé ayant été</source>
+                <target>
+                    regular payment of contributions, or for serious reasons, the person concerned having been
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art107">
+                <source>préalablement appelé à fournir des explications.</source>
+                <target>
+                    previously called to provide explanations.
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art108">
+                <source>Pourront être exclus de la Société les membres :</source>
+                <target>
+                    Members may be excluded from the Society:
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art109">
+                <source>ne participant pas à ses activités ;</source>
+                <target>
+                    not participating in its activities;
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art110">
+                <source>ne respectant pas l'éthique de la profession ;</source>
+                <target>
+                    not respecting the ethics of the profession;
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art111">
+                <source>ne payant pas leur cotisation.</source>
+                <target>
+                    not paying their membership fee.
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art112">
+                <source>La radiation doit obligatoirement être entérinée par l'AG la plus proche.</source>
+                <target>
+                    Cancellation must be ratified by the closest GA.
+                </target>
+            </trans-unit>
+
+
+
+            <trans-unit id="register.art113">
+                <source>La Société peut recevoir des soutiens, sur le plan théorique et matériel, venant de</source>
+                <target>
+                    The Company can receive theoretical and material support from
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art114">
+                <source>personnes ou d'Associations marocaines ou étrangères, susceptibles de l'aider à atteindre</source>
+                <target>
+                    people or Moroccan or foreign associations, likely to help it reach
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art115">
+                <source>ses buts et ses objectifs dans le respect des lois en vigueur.</source>
+                <target>
+                    its goals and objectives in compliance with the laws in force.
+                </target>
+            </trans-unit>
+
+
+            <trans-unit id="register.art116">
+                <source>La Société peut être affiliée à d'autres Sociétés ou Associations internationales après</source>
+                <target>
+                    The Society may be affiliated with other Societies or International Associations after
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art117">
+                <source>décision du Bureau. Elle pourra aussi établir des relations de partenariat avec ces</source>
+                <target>
+                    decision of the Bureau. It will also be able to establish partnership relations with these
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art118">
+                <source>ADMINISTRATION ET FONCTIONNEMEN</source>
+                <target>
+                    ADMINISTRATION AND OPERATION
+                </target>
+            </trans-unit>
+
+
+
+
+
+            <trans-unit id="register.art119">
+                <source>Le Président :</source>
+                <target>
+                    President :
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art120">
+                <source>Il est le responsable et le représentant de l'Association. Il préside les Assemblées</source>
+                <target>
+
+                    He is the manager and representative of the Association. He presides over the Assemblies
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art121">
+                <source>Générales, les réunions du Bureau. Il veille à la bonne marche de l'Association, à</source>
+                <target>
+                    General, Bureau meetings. He ensures the smooth running of the Association,
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art122">
+                <source>l'exécution des décisions de l'Assemblée Générale, au respect des directives du Bureau et</source>
+                <target>
+                    the execution of decisions of the General Assembly, compliance with the directives of the Bureau and
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art123">
+                <source>des statuts. Le Président signe tous les documents et procès-verbaux.</source>
+                <target>
+                    statutes. The President signs all documents and minutes.
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art124">
+                <source>La fonction de Président ne peut être assumée plus de six ans d'affilée. Un ancien Président</source>
+                <target>
+                    The office of President cannot be assumed for more than six years in a row. A former President
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art125">
+                <source>peut cependant assumer de nouveau la présidence trois ans après la fin de son dernier</source>
+                <target>
+                    may, however, assume the presidency again three years after the end of his last
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art126">
+                <source>mandat.</source>
+                <target>
+                    mandate.
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art127">
+                <source>Le Vice-Président :</source>
+                <target>
+                    The vice president :
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art128">
+                <source>Il seconde le Président dans ses tâches et le remplace en cas d'absence ou d'empêchement</source>
+                <target>
+                    He assists the President in his tasks and replaces him in the event of his absence or incapacity
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art129">
+                <source>avec les mêmes pouvoirs que les siens.</source>
+                <target>
+                    with the same powers as his.
+
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art130">
+                <source>Le Secrétaire Général</source>
+                <target>
+                    The Secretary General
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art131">
+                <source>Il assure l'application des statuts et du règlement. Il effectue l'envoi des convocations et</source>
+                <target>
+                    It ensures the application of the statutes and regulations. He sends the summons and
+
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art132">
+                <source>la diffusion de l'ordre du jour pour les Assemblées Générales et les réunions. Il rédige les</source>
+                <target>
+                    dissemination of the agenda for General Assemblies and meetings. He writes the
+
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art133">
+                <source>procès-verbaux et signe éventuellement les correspondances de l'Association. Il a la garde</source>
+                <target>
+                    minutes and possibly sign the correspondence of the Association. He has custody
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art134">
+                <source>des registres de l'Association.</source>
+                <target>
+                    records of the Association.
+
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art135">
+                <source>Le Secrétaire Général Adjoint:</source>
+                <target>
+                    The Deputy Secretary General:
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art136">
+                <source>Il seconde le Secrétaire Général dans l'accomplissement de sa mission et le remplace en cas</source>
+                <target>
+                    He assists the Secretary General in the accomplishment of his mission and replaces him in the event of
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art137">
+                <source>d'absence ou d'empêchement.</source>
+                <target>
+                    absence or impediment.
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art138">
+                <source>Le Trésorier:</source>
+                <target>
+
+                    Treasurer:
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art139">
+                <source>Il a la garde des fonds de l'Association et des livres de compte. IL effectue les recettes</source>
+                <target>
+                    He has the custody of the funds of the Association and the books of account. He does the recipes
+
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art140">
+                <source>et les dépenses, recouvre les cotisations, donne quittance et reçu ; Il soumet à l'Assemblée</source>
+                <target>
+                    and expenses, collects contributions, gives discharge and receipt; He submits to the Assembly
+
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art141">
+                <source>Générale le rapport financier de chaque exercice et prépare le budget annuel. Il dépose dans</source>
+                <target>
+                    General the financial report for each financial year and prepare the annual budget. He deposits in
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art142">
+                <source>les institutions choisies par le Bureau les deniers de l'Association et les gère</source>
+                <target>
+                    the institutions chosen by the Bureau the funds of the Association and manage them
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art143">
+                <source>conformément aux Statuts de celle-ci.</source>
+                <target>
+                    in accordance with its Statutes.
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art144">
+                <source>Le Trésorier Adjoint:</source>
+                <target>
+                    The Deputy Treasurer:
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art145">
+                <source>Il seconde le Trésorier dans sa tâche avec les mêmes pouvoirs et le remplace en cas</source>
+                <target>
+                    He assists the Treasurer in his task with the same powers and replaces him in case
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art146">
+                <source>d'absence ou d'empêchement.</source>
+                <target>
+                    absence or impediment.
+                </target>
+            </trans-unit>
+
+            <trans-unit id="register.art147">
+                <source>d'absence ou d'empêchement.</source>
+                <target>
+                    absence or impediment.
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art148">
+                <source>d'absence ou d'empêchement.</source>
+                <target>
+                    absence or impediment.
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art149">
+                <source>d'absence ou d'empêchement.</source>
+                <target>
+                    absence or impediment.
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art150">
+                <source>d'absence ou d'empêchement.</source>
+                <target>
+                    absence or impediment.
+                </target>
+            </trans-unit>
+
+
+            <trans-unit id="register.art151">
+                <source>Le Bureau est élu pour trois ans. Il se réunit tous les six mois au minimum, et chaque</source>
+                <target>
+                    The Bureau is elected for three years. It meets at least every six months, and every
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art152">
+                <source>fois qu'il est convoqué par son Président</source>
+                <target>
+                    fois qu'il est convoqué par son Président
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art153">
+                <source>La moitié plus un des membres présents du Comité Directeur sont nécessaires pour la validité</source>
+                <target>
+                    Half plus one of the present members of the Steering Committee are required for the validity
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art154">
+                <source>des délibérations. Les délibérations sont prises à la majorité des voix. A nombre égal de</source>
+                <target>
+                    deliberations. Decisions are taken by majority vote. For an equal number of
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art155">
+                <source>voix, celle du Président compte double. Ces réunions sont constatées par des procès-verbaux.</source>
+                <target>
+                    vote, that of the President counts double. These meetings are recorded in minutes.
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art156">
+                <source>En cas de défection d'un ou de plusieurs membres du Bureau d'autres membres adhérents</source>
+                <target>
+                    In the event of the defection of one or more members of the Bureau of other adherent members
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art157">
+                <source>pourront les remplacer. Leur intégration au Bureau se fera par simple cooptation et sera</source>
+                <target>
+                    can replace them. Their integration into the Bureau will be done by simple cooptation and will be
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art158">
+                <source>soumise à l'approbation de la prochaine Assemblée Générale.</source>
+                <target>
+                    subject to the approval of the next General Assembly.
+                </target>
+            </trans-unit>
+
+
+
+            <trans-unit id="register.art159">
+                <source>L'adhésion aux présents Statuts emporte engagement de se conformer aux stipulations des</source>
+                <target>
+                    Adherence to these Statutes implies a commitment to comply with the stipulations of</target>
+            </trans-unit>
+            <trans-unit id="register.art160">
+                <source>présents statuts, ainsi qu'au règlement intérieur de la SPM.</source>
+                <target>
+                    these statutes, as well as the internal regulations of the SPM.
+                </target>
+            </trans-unit>
+
+
+            <trans-unit id="register.art161">
+                <source>Le Conseil Consultatif a un pouvoir consultatif : Il donne avis et émet toutes suggestions</source>
+                <target>
+                    The Advisory Council has consultative power: It gives advice and makes all suggestions
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art162">
+                <source>sur les questions qui lui sont soumises par le Président ou le Vice-président ou par le</source>
+                <target>
+                    on questions submitted to it by the President or the Vice-President or by the
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art163">
+                <source>Bureau Exécutif en matière de politique générale de la Société et sur les grandes questions</source>
+                <target>
+                    Executive Board in matters of general policy of the Company and on major issues
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art164">
+                <source>pédagogiques, stratégiques et financières la concernant.</source>
+                <target>
+                    pedagogical, strategic and financial concerning it.
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art165">
+                <source>Il se compose des membres fondateurs et de 3 membres au moins du bureau sortant. Ces membres</source>
+                <target>
+                    It is made up of the founding members and at least 3 members of the outgoing board. These members
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art166">
+                <source>sont élus à bulletin secret à chaque renouvellement du Bureau Exécutif. Un membre du Conseil</source>
+                <target>
+                    are elected by secret ballot at each renewal of the Executive Board. A member of the Council
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art167">
+                <source>Consultatif ne peut pas être simultanément membre du Conseil et membre du Bureau Exécutif.</source>
+                <target>
+                    Consultatif ne peut pas être simultanément membre du Conseil et membre du Bureau Exécutif.
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art168">
+                <source>La durée des fonctions des membres du Conseil Consultatif est de deux années que le Bureau</source>
+                <target>
+                    Consultative cannot be simultaneously a member of the Council and a member of the Executive Bureau.
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art169">
+                <source>Exécutif peut renouveler.</source>
+                <target>
+                    Executive can renew.
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art170">
+                <source>Le Conseil Consultatif se réunit au moins une fois par an et à chaque fois qu'il est</source>
+                <target>
+                    The Advisory Board meets at least once a year and whenever it is
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art171">
+                <source>convoqué par le Président de l'Association, qui assiste aux dites réunions du Conseil</source>
+                <target>
+                    convened by the President of the Association, who attends the said meetings of the Council
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art172">
+                <source>Consultatif s'il y ait invité par le celui-ci. Peut y assisté également le Secrétaire</source>
+                <target>
+                    Consultative if there is invited by this one. The Secretary may also attend
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art173">
+                <source>Général en vue d'apporter assistance aux travaux du Conseil. Ils ne participent pas aux</source>
+                <target>
+                    General in order to provide assistance to the work of the Council. They do not participate in
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art174">
+                <source>votes.</source>
+                <target>
+                    votes.
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art175">
+                <source>Le Conseil Consultatif veille au respect des orientations et objectifs fondamentaux de la</source>
+                <target>
+                    The Advisory Board ensures that the fundamental orientations and objectives of the
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art176">
+                <source>Il veille à l'équilibre des pouvoirs au sein de la SPM</source>
+                <target>
+                    He ensures the balance of power within the SPM
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art177">
+                <source>Il arbitre les divergences éventuelles au sein du Bureau Exécutif, et entre les membres de</source>
+                <target>
+                    It arbitrates the possible differences within the Executive Board, and between the members of
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art178">
+                <source>la SPM</source>
+                <target>
+                    the SPM
+                </target>
+            </trans-unit>
+
+
+            <trans-unit id="register.art179">
+                <source>L'Assemblée Générale de la Société Psychanalytique Marocaine comprend les Membres</source>
+                <target>
+                    The General Assembly of the Moroccan Psychoanalytic Society includes the Members
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art180">
+                <source>Adhérents. Pourront néanmoins participer aux délibérations à titre d'observateurs</source>
+                <target>
+                    Members. May nevertheless participate in the deliberations as observers
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art181">
+                <source>les Membres Honoraires</source>
+                <target>
+                    Honorary Members
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art182">
+                <source>les Membres Bienfaiteurs</source>
+                <target>
+                    Benefactor Members
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art183">
+                <source>les Membres Adhérents</source>
+                <target>
+                    Associate Members
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art184">
+                <source>les Membres Associés</source>
+                <target>
+                    Associate Members
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art185">
+                <source>L'Assemblée Générale Ordinaires se réunit une fois par an à la fin des journées annuelles ;</source>
+                <target>
+                    The Ordinary General Assembly meets once a year at the end of the annual days;
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art186">
+                <source>Son ordre du jour sera établi par le Bureau mais il pourra être complété par quelques points</source>
+                <target>
+                    Its agenda will be established by the Bureau but it may be supplemented by a few points.
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art187">
+                <source>rajoutés par les membres de l'Assemblée. L'Assemblée Générale entend les rapports sur le</source>
+                <target>
+                    added by the members of the Assembly. The General Assembly hears reports on the
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art188">
+                <source>fonctionnement de la Société de Psychanalytique Marocaine et sur sa situation financière.</source>
+                <target>
+                    functioning of the Moroccan Psychoanalytic Society and its financial situation.
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art189">
+                <source>Elle approuve les comptes de l'exercice clos, vote le budget de l'exercice suivant, délibère</source>
+                <target>
+                    It approves the accounts for the closed financial year, votes on the budget for the following financial year, deliberates
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art190">
+                <source>sur les questions mises à l'ordre du jour. Elle procède à l'élection du nouveau Bureau tous</source>
+                <target>
+                    on the issues on the agenda. It proceeds to the election of the new Bureau every
+
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art191">
+                <source>les trois ans.</source>
+                <target>
+                    every three years.
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art192">
+                <source>L'Assemblée Générale Ordinaire procède également à l'examen, à l'adoption ou au rejet du</source>
+                <target>
+                    The Ordinary General Meeting also examines, adopts or rejects the
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art193">
+                <source>projet de règlement intérieur qui lui aura été soumis.</source>
+                <target>
+                    draft internal regulations which will have been submitted to it.
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art194">
+                <source>Les délibérations sont prises à la majorité des voix des membres présents. Il est dressé</source>
+                <target>
+                    The deliberations are taken by a majority of the votes of the members present. He is trained
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art195">
+                <source>procès-verbal de chaque réunion de l'Assemblée Générale.</source>
+                <target>
+                    minutes of each meeting of the General Assembly.
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art196">
+                <source>Une Assemblée Générale Extraordinaire peut être convoquée si nécessaire par le Président ou</source>
+                <target>
+                    An Extraordinary General Assembly may be convened if necessary by the President or
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art197">
+                <source>par les 2/3 des Membres du Bureau ou encore par les 2/3 de ses membres à des fins de</source>
+                <target>
+                    by 2/3 of the Members of the Bureau or by 2/3 of its members for the purposes of
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art198">
+                <source>modification des Statuts de l'Association ou de sa dissolution.</source>
+                <target>
+                    modification of the Statutes of the Association or its dissolution.
+                </target>
+            </trans-unit>
+
+
+
+
+            <trans-unit id="register.art199">
+                <source>La Société Psychanalytique Marocaine pourra posséder tous les biens nécessaires au but</source>
+                <target>
+                    The Moroccan Psychoanalytic Society may own all the goods necessary for the goal
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art200">
+                <source>qu'elle poursuit et à l'œuvre qu'elle se propose d'accomplir, dans les limites fixées par la</source>
+                <target>
+                    that it pursues and to the work that it proposes to accomplish, within the limits set by the
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art201">
+                <source>Loi.</source>
+                <target>
+                    Law.
+                </target>
+            </trans-unit>
+
+
+            <trans-unit id="register.art202">
+                <source>Les ressources annuelles de l'Association se composent :</source>
+                <target>
+                    The annual resources of the Association consist of:
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art203">
+                <source>des cotisations et souscriptions de ses membres</source>
+                <target>
+                    membership fees and subscriptions
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art204">
+                <source>des subventions qui pourront lui être accordées</source>
+                <target>
+                    grants that may be awarded to it
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art205">
+                <source>des intérêts de revenus des biens non compris dans le fonds de réserve</source>
+                <target>
+                    interest on income from property not included in the reserve fund
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art206">
+                <source>des dons et legs autorisés</source>
+                <target>
+                    authorized donations and bequests
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art207">
+                <source>des recettes de toute manifestation organisée par l'Association, dans le cadre de la</source>
+                <target>
+                    revenue from any event organized by the Association, within the framework of the
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art208">
+                <source>législation en vigueur.</source>
+                <target>
+                    legislation.
+                </target>
+            </trans-unit>
+
+            <trans-unit id="register.art209">
+                <source>Les dépenses de la Société Marocaine de Psychanalyse sont ordonnées par le Président après</source>
+                <target>
+                    The expenses of the Moroccan Psychoanalysis Society are ordered by the President after
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art210">
+                <source>accord du Bureau.</source>
+                <target>
+                    Bureau agreement.
+                </target>
+            </trans-unit>
+
+            <trans-unit id="register.art211">
+                <source>Il est tenu au jour le jour une comptabilité des deniers par recettes et par dépenses, et</source>
+                <target>
+                    A day-to-day accounting of funds by revenue and expenditure is kept, and
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art212">
+                <source>s'il y a lieu une comptabilité matières.</source>
+                <target>
+                    where appropriate, stock accounts.
+                </target>
+            </trans-unit>
+
+
+            <trans-unit id="register.art213">
+                <source>Les ordres de retrait de fonds sont signés conjointement par le président et le trésorier</source>
+                <target>
+                    Orders for withdrawal of funds are jointly signed by the president and the treasurer
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art214">
+                <source>de l'Association ou à défaut le vice président et le trésorier adjoint.</source>
+                <target>
+                    of the Association or failing that the vice president and assistant treasurer.
+                </target>
+            </trans-unit>
+
+
+            <trans-unit id="register.art215">
+                <source>Les fonctions de membres du Comité Directeur sont gratuites. Toutefois ils peuvent</source>
+                <target>
+                    The functions of members of the Steering Committee are free. However they can
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art216">
+                <source>bénéficier du remboursement de leurs frais de déplacement ou de toute autre dépense</source>
+                <target>
+                    benefit from reimbursement of their travel expenses or any other expense
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art217">
+                <source>effectuée pour le compte de l'Association.</source>
+                <target>
+                    carried out on behalf of the Association.
+                </target>
+            </trans-unit>
+
+
+
+            <trans-unit id="register.art218">
+                <source>Les Statuts ne peuvent être modifiés que par l'Assemblée Générale Extraordinaire avec</source>
+                <target>
+                    The Statutes can only be amended by the Extraordinary General Assembly with
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art219">
+                <source>l'approbation des 2/3 des membres. Au cas où le quorum n'est pas atteint, une deuxième</source>
+                <target>
+                    the approval of 2/3 of the members. If the quorum is not reached, a second
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art220">
+                <source>Assemblée Générale est convoquée au moins 15 jours avant par lettre recommandée. Les</source>
+                <target>
+                    General Assembly is convened at least 15 days before by registered letter. The
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art221">
+                <source>décisions sont alors prises à la majorité simple des présents.</source>
+                <target>
+                    décisions sont alors prises à la majorité simple des présents.
+                </target>
+            </trans-unit>
+
+            <trans-unit id="register.art222">
+                <source>La dissolution de la Société Marocaine de Psychanalyse ne pourra être prononcée qu'en</source>
+                <target>
+                    The dissolution of the Moroccan Psychoanalysis Society can only be pronounced
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art223">
+                <source>Assemblée Générale Extraordinaire, convoquée à cet effet un mois à l'avance, et la</source>
+                <target>
+                    Extraordinary General Meeting, convened for this purpose one month in advance, and the
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art224">
+                <source>délibération doit être prise à la majorité des deux tiers des membres présents.</source>
+                <target>
+                    deliberation must be taken by a two-thirds majority of the members present.
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art225">
+                <source>En cas de dissolution, l'Assemblée Générale désigne un ou plusieurs commissaires chargés de</source>
+                <target>
+                    In the event of dissolution, the General Assembly appoints one or more auditors responsible for
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art226">
+                <source>la liquidation des biens de l'œuvre.</source>
+                <target>
+                    liquidation of the assets of the work.
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art227">
+                <source>Elle attribue l'actif net à une Association poursuivant le même objet ou à défaut à une</source>
+                <target>
+                    It allocates the net assets to an Association pursuing the same object or failing that to a
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art228">
+                <source>oeuvre de bienfaisance.</source>
+                <target>
+                    Charity work.
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art229">
+                <source>L'administration de la Société Psychanalytique Marocaine est dévolue à un Bureau. Le</source>
+                <target>
+                    The administration of the Moroccan Psychoanalytic Society is devolved to an Office. The
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art230">
+                <source>programme d'activités de la SPM est défini par celui-ci. Le Bureau est investi des pouvoirs</source>
+                <target>
+                    SPM's program of activities is defined by it. The Bureau is vested with the powers
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art231">
+                <source>les plus étendus pour l'administration et le contrôle financier de la SPM.</source>
+                <target>
+                    the most extensive for the administration and financial control of the SPM.
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art232">
+                <source>Le Bureau est élu pour trois ans par l'Assemblée Générale et comprend:</source>
+                <target>
+                    The Bureau is elected for three years by the General Assembly and includes:
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art233">
+                <source>un Président</source>
+                <target>
+                    a president
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art234">
+                <source>un Vice-Président</source>
+                <target>
+                    a Vice-President
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art235">
+                <source>un Secrétaire Général</source>
+                <target>
+                    a Secretary General
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art236">
+                <source>un Secrétaire Général Adjoint</source>
+                <target>
+                    a Deputy Secretary General
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art237">
+                <source>un Trésorier</source>
+                <target>
+                    a Treasurer
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art238">
+                <source>un Trésorier Adjoint</source>
+                <target>
+                    an Assistant Treasurer
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art239">
+                <source>un conseiller</source>
+                <target>
+                    an advisor
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art240">
+                <source>La SPM se donne pour buts:</source>
+                <target>
+                    The goals of the SPM are:
+                </target>
+            </trans-unit>
+
+            <trans-unit id="register.art270">
+                <source>Membres Associés</source>
+                <target>
+                    Associate Members
+                </target>
+            </trans-unit>
+
+            <trans-unit id="register.art241">
+                <source>Vice-Président</source>
+                <target>
+                    Vice-president
+                </target>
+            </trans-unit>
+
+            <trans-unit id="register.art277">
+                <source>Le bureau de l'exercice du 2011 au 07/12/2013 :</source>
+                <target>
+                    The office for the financial year from 2011 to 12/07/2013:
+                </target>
+            </trans-unit>
+
+            <trans-unit id="register.art242">
+                <source>Secrétaire Général Adjoint</source>
+                <target>
+                    Deputy General Secretary
+                </target>
+            </trans-unit>
+
+            <trans-unit id="register.art243">
+                <source>Assesseur</source>
+                <target>
+                    Assessor
+                </target>
+            </trans-unit>
+
+            <trans-unit id="register.art244">
+                <source>Trésorier Adjoint</source>
+                <target>
+                    Adjunct treasurer
+                </target>
+            </trans-unit>
+
+            <trans-unit id="register.art245">
+                <source>Trésorier</source>
+                <target>
+                    Treasurer
+                </target>
+            </trans-unit>
+
+            <trans-unit id="register.art246">
+                <source>Général Adjoint</source>
+                <target>
+                    Deputy General
+                </target>
+            </trans-unit>
+
+            <trans-unit id="register.art247">
+                <source>Secrétaire Général</source>
+                <target>
+                    General secretary
+                </target>
+            </trans-unit>
+
+            <trans-unit id="register.art248">
+                <source>Vice Président</source>
+                <target>
+                    Vice President
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art249">
+                <source>Président</source>
+                <target>
+                    President
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art250">
+                <source>Le bureau fondateur de la Société Psychanalytique Marocaine S.P.M :</source>
+                <target>
+                    The founding office of the Moroccan Psychoanalytic Society S.P.M:
+                </target>
+            </trans-unit>
+
+            <trans-unit id="register.art251">
+                <source>Secrétaire Générale</source>
+                <target>
+                    General secretary
+                </target>
+            </trans-unit>
+
+            <trans-unit id="register.art252">
+                <source>2ème Vice-Président</source>
+                <target>
+                    2nd Vice-President
+                </target>
+            </trans-unit>
+
+            <trans-unit id="register.art253">
+                <source>1er Vice-Président</source>
+                <target>
+                    1st Vice-President
+                </target>
+            </trans-unit>
+
+            <trans-unit id="register.art254">
+                <source>Vice-Présidente</source>
+                <target>
+                    Vice-President
+                </target>
+            </trans-unit>
+
+            <trans-unit id="register.art255">
+                <source>Présidente</source>
+                <target>
+                    President
+                </target>
+            </trans-unit>
+
+            <trans-unit id="register.art256">
+                <source>délibération doit être prise à la majorité des deux tiers des membres présents</source>
+                <target>
+                    deliberation must be taken by a two-thirds majority of the members present
+                </target>
+            </trans-unit>
+
+            <trans-unit id="register.art278">
+                <source>modification des Statuts de l'Association ou de sa dissolution</source>
+                <target>
+                    modification of the Statutes of the Association or its dissolution
+                </target>
+            </trans-unit>
+
+            <trans-unit id="register.art257">
+                <source>soumise à l'approbation de la prochaine Assemblée Générale:</source>
+                <target>
+                    subject to the approval of the next General Assembly:
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art258">
+                <source>pourront les remplacer. Leur intégration au Bureau se fera par simple cooptation et sera:</source>
+                <target>
+                    can replace them. Their integration into the Bureau will be done by simple cooptation and will be:
+                </target>
+            </trans-unit>
+
+            <trans-unit id="register.art259">
+                <source>En cas de défection d'un ou de plusieurs membres du Bureau d'autres membres adhérents:</source>
+                <target>
+                    In the event of the defection of one or more members of the Bureau from other members:
+                </target>
+            </trans-unit>
+
+            <trans-unit id="register.art260">
+                <source>voix, celle du Président compte double. Ces réunions sont constatées par des procès-verbaux:</source>
+                <target>
+                    In the event of the defection of one or more members of the Bureau from other members:
+                </target>
+            </trans-unit>
+
+            <trans-unit id="register.art261">
+                <source>des délibérations. Les délibérations sont prises à la majorité des voix. A nombre égal de:</source>
+                <target>
+                    deliberations. Decisions are taken by majority vote. Equal number of:
+                </target>
+            </trans-unit>
+
+            <trans-unit id="register.art262">
+                <source>La moitié plus un des membres présents du Comité Directeur sont nécessaires pour la validité:</source>
+                <target>
+                    Half plus one of the members present of the Steering Committee are necessary for the validity:
+                </target>
+            </trans-unit>
+
+            <trans-unit id="register.art263">
+                <source>institution, soit par leurs travaux</source>
+                <target>
+                    institution, or through their work
+                </target>
+            </trans-unit>
+
+            <trans-unit id="register.art264">
+                <source>Elu le 30/11/2019</source>
+                <target>
+                    Elected on 30/11/2019
+                </target>
+            </trans-unit>
+            <trans-unit id="register.art265">
+                <source>conformément aux dispositions du</source>
+                <target>
+                    in accordance with the provisions of
+                </target>
+            </trans-unit>
+
+
+
+            <!--  <trans-unit id="register.article1">
+                              <source>A l'initiative des membres fondateurs réunis en Assemblée Constitutive le 07 décembre 2001 à Dar M'rini - Rabat, il est créé une Association dénommée Société Psychanalytique Marocaine (S.P.M.) conformément aux dispositions du dahir nº 1-58-376 du 3 Joumada I, 1378 (15 novembre 1958) tel qu'il a été modifié par le dahir portant loi nº 1-73-285 du 6 Rabi' I 1393 (10 avril 1973) réglementant le droit d'association. Les membres fondateurs sont les personnes suivantes : Abdel Jalil BENNANI, Khalid EL ALJ, Abdeslam DACHMI, Mohamed JAMAI, Ahmed Farid MERINI, Abdellah OUARDINI, Mohamed Hachem TYAL. Le siège de la SPM est situé à Rabat et domicilié à la Boite Postale de l'Association. Il pourra être transféré en tous lieux dans la même ville ou dans une autre ville par décision de l'Assemblée Générale Ordinaire.</source>
+                              <target>On the initiative of the founding members gathered in a Constitutive Assembly on December 7, 2001 in Dar M'rini - Rabat, an Association called the Moroccan Psychoanalytic Society (SPM) was created in accordance with the provisions of dahir nº 1-58-376 of 3 Joumada I , 1378 (November 15, 1958) as amended by the Dahir on Law No. 1-73-285 of 6 Rabi 'I 1393 (April 10, 1973) regulating the right of association. The founding members are the following people: Abdel Jalil BENNANI, Khalid EL ALJ, Abdeslam DACHMI, Mohamed JAMAI, Ahmed Farid MERINI, Abdellah OUARDINI, Mohamed Hachem TYAL. The headquarters of the SPM are located in Rabat and domiciled at the Association Postbox. It may be transferred to any location in the same city or to another city by decision of the Ordinary General Assembly.</target>
+                          </trans-unit>
+
+                           <trans-unit id="register.article2">
+                               <source>La SPM se donne pour buts: d'assurer la formation des psychanalystes au Maroc ; de promouvoir et de développer la psychanalyse au Maroc ; de veiller au respect de l'éthique dans le cadre de cette formation. Pour parvenir à ses objectifs, la SPM se propose de mettre en place les moyens pour assurer : la psychanalyse personnelle ; la pratique de " contrôle " ; la formation théorique ; l'habilitation à la pratique de la cure psychanalytique par une commission composée de trois praticiens confirmés. Les praticiens qui seront amenés à dispenser une formation seront soit des praticiens marocains, soit des praticiens étrangers. La SPM vise ainsi à faire bénéficier les futurs psychanalystes de la formation la plus ouverte et la plus large possible, tenant compte en cela des différents développements qu'a connu la psychanalyse depuis sa fondation par Freud.</source>
+                               <target>The goals of the SPM are: to ensure the training of psychoanalysts in Morocco; to promote and develop psychoanalysis in Morocco; to ensure respect for ethics within the framework of this training. To achieve its objectives, the SPM proposes to put in place the means to ensure: personal psychoanalysis; the practice of "control"; theoretical training; accreditation to the practice of psychoanalytic treatment by a commission made up of three experienced practitioners. The practitioners who will be required to provide training will either be Moroccan practitioners or foreign practitioners. The SPM thus aims to provide future psychoanalysts with the most open and broad training possible, taking into account in this respect the various developments that psychoanalysis has known since its foundation by Freud.</target>
+                           </trans-unit>
+
+
+                           <trans-unit id="menu.article3">
+                               <source>La SPM veillera à : mettre en place les documents de base réglementant les différentes activités de l'Association. instituer des groupes de travail (cartels) composés de quatre personnes au moins, en vue d'assurer un travail régulier entre les membres de l'Association. organiser des séminaires, des conférences, des colloques, des congrès nationaux et internationaux. organiser la tenue de journées annuelles de l'Association et, si possible, semestrielles. assurer la publication des travaux de ses membres qui réunissent les conditions de publication. promouvoir différentes actions culturelles au profit de ses membres. développer le champ de la recherche en psychanalyse. encourager le travail sur les traductions françaises, anglaises ou espagnoles de textes psychanalytiques allemands. Elle favorisera également toute initiative susceptible d'aider à la traduction en arabe des textes psychanalytiques. assurer des contacts périodiques avec tous les organismes ou associations ayant des activités similaires. créer une bibliothèque et se doter d'une banque de données informatisée. </source>
+                               <target>The SPM will take care to: put in place the basic documents regulating the various activities of the Association. set up working groups (cartels) composed of at least four people, in order to ensure regular work between the members of the Association. organize seminars, conferences, colloquiums, national and international congresses. organize annual Association days and, if possible, semi-annual. ensure the publication of the work of its members who meet the conditions for publication. promote various cultural actions for the benefit of its members. develop the field of research in psychoanalysis. encourage work on French, English or Spanish translations of German psychoanalytic texts. It will also promote any initiative likely to help translate psychoanalytic texts into Arabic. ensure periodic contacts with all organizations or associations having similar activities. create a library and acquire a computerized database.</target>
+                           </trans-unit>
+                           <trans-unit id="menu.article4">
+                               <source>Les Membres Adhérents de la SPM : Peuvent être Membres Adhérents de la SPM : les praticiens de la santé mentale au Maroc ; les psychanalystes exerçant à l'étranger et inscrits dans un processus de formation analytique et dont la pratique fait l'objet d'une reconnaissance, soit dans le cadre d'une institution, soit par leurs travaux Pour être Membre Adhérent, il faut présenter sa candidature au Bureau de l'Association, être agréé par celui-ci, avoir payé sa cotisation annuelle et se soumettre aux décisions de l'Association conformément aux dispositions statutaires et réglementaires. Seuls les membres adhérents sont habilités à voter dans les différentes institutions de la SPM (Assemblée Générale Ordinaire, Assemblée Générale Extraordinaire…) Les Membres Associés de la SPM : Peuvent être Membres Associés : les personnes qui, par leurs préoccupations professionnelles ou par leurs recherches personnelles sont intéressées par la psychanalyse ; les étudiants en formation en psychiatrie, en psychologie ou dans une autre branche de la santé mentale. Pour être Membre Associé, il est nécessaire d'avoir le parrainage de deux membres du Bureau. Les Membres associés n'ont pas de voix élective. Les Membres Associés doivent s'acquitter d'une cotisation annuelle dont le montant sera fixé par le Bureau. Les Membres Fondateurs : Ce sont les personnes ayant créé l'Association. Les Membres Bienfaiteurs : Ce sont les personnes qui apportent leur soutien moral, matériel ou technique à l'Association. Pour être Membre Bienfaiteur, il faut être agréé par le Bureau et avoir réglé sa cotisation annuelle. Les Membres Honoraires : Ce sont les personnes qui se sont distinguées par leurs travaux et qui soutiennent l'Association. Ils seront choisis sur proposition du Bureau. Les Membres Correspondants : Ce sont des personnes qui sont chargées de diffuser les travaux de l'Association et favoriser les relations et les échanges avec d'autres Associations au niveau international. Ils peuvent être proposés par le Bureau ou admis, suite à leur propre demande, après acceptation du Bureau.</source>
+                               <target>The Adherent Members of the SPM: Can be Adherent Members of the SPM: mental health practitioners in Morocco; psychoanalysts practicing abroad and enrolled in an analytical training process and whose practice is recognized, either within the framework of an institution or through their work To be an Adherent Member, you must present your candidacy for the Bureau of the Association, be approved by it, have paid his annual subscription and submit to the decisions of the Association in accordance with the statutory and regulatory provisions. Only adherent members are entitled to vote in the various institutions of the SPM (Ordinary General Assembly, Extraordinary General Assembly, etc.) Associate Members of the SPM: Can be Associate Members: people who, through their professional concerns or through their personal research are interested in psychoanalysis; students in training in psychiatry, psychology or another branch of mental health. To be an Associate Member, it is necessary to have the sponsorship of two members of the Bureau. Associate Members do not have an elective vote. Associate Members must pay an annual membership fee, the amount of which will be determined by the Board. The Founding Members: These are the people who created the Association. Benefactor Members: These are the people who provide moral, material or technical support to the Association. To be a Benefactor Member, you must be approved by the Bureau and have paid your annual subscription. Honorary Members: These are the people who have distinguished themselves by their work and who support the Association. They will be chosen on the proposal of the Bureau. Corresponding Members: These are people who are responsible for disseminating the work of the Association and promoting relations and exchanges with other Associations at the international level. They can be proposed by the Bureau or admitted, following their own request, after acceptance by the Bureau.</target>
+                           </trans-unit>
+                           <trans-unit id="menu.article5">
+                               <source>La qualité de Membre Adhérent de la SPM se perd : par décès par démission par radiation prononcée par le Bureau aux 2/3 de ses voix, soit pour refus ou défaut de paiement régulier des cotisations, soit pour motif grave, l'intéressé ayant été préalablement appelé à fournir des explications. Pourront être exclus de la Société les membres : ne participant pas à ses activités ; ne respectant pas l'éthique de la profession ; ne payant pas leur cotisation. La radiation doit obligatoirement être entérinée par l'AG la plus proche.</source>
+                               <target>The status of Adherent Member of the SPM is lost: by death by resignation by radiation pronounced by the Bureau with 2/3 of its votes, either for refusal or failure to pay regular contributions, or for serious reasons, the interested party having been previously called to provide explanations. Members who do not participate in its activities may be excluded from the Company; not respecting the ethics of the profession; not paying their membership fee. Cancellation must be ratified by the closest GA.</target>
+                           </trans-unit>
+                           <trans-unit id="menu.article6">
+                               <source>La Société peut recevoir des soutiens, sur le plan théorique et matériel, venant de personnes ou d'Associations marocaines ou étrangères, susceptibles de l'aider à atteindre ses buts et ses objectifs dans le respect des lois en vigueur.</source>
+                               <target>The Company may receive theoretical and material support from people or Moroccan or foreign associations, likely to help it achieve its goals and objectives in compliance with the laws in force.</target>
+                           </trans-unit>
+                           <trans-unit id="menu.article7">
+                               <source>La Société peut être affiliée à d'autres Sociétés ou Associations internationales après décision du Bureau. Elle pourra aussi établir des relations de partenariat avec ces institutions.</source>
+                               <target>The Society may be affiliated to other Societies or International Associations after decision of the Bureau. It will also be able to establish partnership relations with these institutions</target>
+                           </trans-unit>
+                           <trans-unit id="post.article8">
+                               <source>L'administration de la Société Psychanalytique Marocaine est dévolue à un Bureau. Le programme d'activités de la SPM est défini par celui-ci. Le Bureau est investi des pouvoirs les plus étendus pour l'administration et le contrôle financier de la SPM. Le Bureau est élu pour trois ans par l'Assemblée Générale et comprend: un Président un Vice-Président un Secrétaire Général un Secrétaire Général Adjoint un Trésorier un Trésorier Adjoint un conseiller</source>
+                               <target>The administration of the Moroccan Psychoanalytic Society is devolved to an Office. The SPM's program of activities is defined by it. The Bureau is vested with the broadest powers for the administration and financial control of the SPM. The Bureau is elected for three years by the General Assembly and comprises: a President a Vice-President a Secretary General a Deputy Secretary General a Treasurer an Assistant Treasurer an advisor</target>
+                           </trans-unit>
+                           <trans-unit id="register.article9">
+                               <source>Le Président : Il est le responsable et le représentant de l'Association. Il préside les Assemblées Générales, les réunions du Bureau. Il veille à la bonne marche de l'Association, à l'exécution des décisions de l'Assemblée Générale, au respect des directives du Bureau et des statuts. Le Président signe tous les documents et procès-verbaux. La fonction de Président ne peut être assumée plus de six ans d'affilée. Un ancien Président peut cependant assumer de nouveau la présidence trois ans après la fin de son dernier mandat. Le Vice-Président : Il seconde le Président dans ses tâches et le remplace en cas d'absence ou d'empêchement avec les mêmes pouvoirs que les siens. Le Secrétaire Général : Il assure l'application des statuts et du règlement. Il effectue l'envoi des convocations et la diffusion de l'ordre du jour pour les Assemblées Générales et les réunions. Il rédige les procès-verbaux et signe éventuellement les correspondances de l'Association. Il a la garde des registres de l'Association. Le Secrétaire Général Adjoint: Il seconde le Secrétaire Général dans l'accomplissement de sa mission et le remplace en cas d'absence ou d'empêchement. Le Trésorier: Il a la garde des fonds de l'Association et des livres de compte. IL effectue les recettes et les dépenses, recouvre les cotisations, donne quittance et reçu ; Il soumet à l'Assemblée Générale le rapport financier de chaque exercice et prépare le budget annuel. Il dépose dans les institutions choisies par le Bureau les deniers de l'Association et les gère conformément aux Statuts de celle-ci. Le Trésorier Adjoint: Il seconde le Trésorier dans sa tâche avec les mêmes pouvoirs et le remplace en cas d'absence ou d'empêchement.</source>
+                               <target>The President: He is the manager and representative of the Association. He chairs the General Assemblies and the meetings of the Bureau. He ensures the smooth running of the Association, the execution of the decisions of the General Assembly, the respect of the directives of the Bureau and the statutes. The President signs all documents and minutes. The office of President cannot be assumed for more than six years in a row. A former President may, however, assume the Presidency again three years after the end of his last term. The Vice-President: He assists the President in his tasks and replaces him in the event of his absence or impediment with the same powers as his. The Secretary General: He ensures the application of the statutes and the regulations. He sends out notices and distributes the agenda for General Assemblies and meetings. He writes the minutes and possibly signs the correspondence of the Association. He is responsible for the records of the Association. The Deputy Secretary General: He assists the Secretary General in the accomplishment of his mission and replaces him in the event of absence or impediment. The Treasurer: He has the custody of the funds of the Association and the books of account. He carries out the receipts and the expenses, collects the contributions, gives a receipt and receipt; It submits to the General Assembly the financial report for each financial year and prepares the annual budget. He deposits in the institutions chosen by the Bureau the funds of the Association and manages them in accordance with the Statutes of the latter. The Deputy Treasurer: He assists the Treasurer in his task with the same powers and replaces him in the event of absence or impediment.</target>
+                           </trans-unit>
+                           <trans-unit id="register.article10">
+                               <source>Le Bureau est élu pour trois ans. Il se réunit tous les six mois au minimum, et chaque fois qu'il est convoqué par son Président. La moitié plus un des membres présents du Comité Directeur sont nécessaires pour la validité des délibérations. Les délibérations sont prises à la majorité des voix. A nombre égal de voix, celle du Président compte double. Ces réunions sont constatées par des procès-verbaux. En cas de défection d'un ou de plusieurs membres du Bureau d'autres membres adhérents pourront les remplacer. Leur intégration au Bureau se fera par simple cooptation et sera soumise à l'approbation de la prochaine Assemblée Générale.</source>
+                               <target>The Bureau is elected for three years. It meets at least every six months, and each time it is convened by its Chairman. Half plus one of the members present of the Steering Committee are necessary for the validity of the deliberations. Decisions are taken by majority vote. With an equal number of votes, that of the President counts double. These meetings are recorded in minutes. In the event of the defection of one or more members of the Bureau, other adhering members may replace them. Their integration into the Board will be done by simple co-option and will be subject to the approval of the next General Assembly.</target>
+                           </trans-unit>
+                           <trans-unit id="register.article11">
+                               <source>L'adhésion aux présents Statuts emporte engagement de se conformer aux stipulations des présents statuts, ainsi qu'au règlement intérieur de la SPM.</source>
+                               <target>Adherence to these Statutes implies a commitment to comply with the stipulations of these Statutes, as well as the internal regulations of the SPM.</target>
+                           </trans-unit>
+                           <trans-unit id="register.article12">
+                               <source>Le Conseil Consultatif a un pouvoir consultatif : Il donne avis et émet toutes suggestions sur les questions qui lui sont soumises par le Président ou le Vice-président ou par le Bureau Exécutif en matière de politique générale de la Société et sur les grandes questions pédagogiques, stratégiques et financières la concernant. Il se compose des membres fondateurs et de 3 membres au moins du bureau sortant. Ces membres sont élus à bulletin secret à chaque renouvellement du Bureau Exécutif. Un membre du Conseil Consultatif ne peut pas être simultanément membre du Conseil et membre du Bureau Exécutif. La durée des fonctions des membres du Conseil Consultatif est de deux années que le Bureau Exécutif peut renouveler. Le Conseil Consultatif se réunit au moins une fois par an et à chaque fois qu'il est convoqué par le Président de l'Association, qui assiste aux dites réunions du Conseil Consultatif s'il y ait invité par le celui-ci. Peut y assisté également le Secrétaire Général en vue d'apporter assistance aux travaux du Conseil. Ils ne participent pas aux votes. Le Conseil Consultatif veille au respect des orientations et objectifs fondamentaux de la SPM Il veille à l'équilibre des pouvoirs au sein de la SPM Il arbitre les divergences éventuelles au sein du Bureau Exécutif, et entre les membres de la SPM</source>
+                               <target>The Advisory Board has consultative power: It gives advice and makes all suggestions on questions submitted to it by the President or the Vice-President or by the Executive Board in matters of general policy of the Company and on major educational issues, strategic and financial matters concerning it. It is made up of the founding members and at least 3 members of the outgoing board. These members are elected by secret ballot at each renewal of the Executive Board. A member of the Advisory Board cannot be simultaneously a member of the Board and a member of the Executive Board. The term of office of members of the Advisory Council is two years, which the Executive Board can renew. The Advisory Council meets at least once a year and each time it is convened by the President of the Association, who attends the said meetings of the Advisory Council if invited by the latter. The Secretary General may also attend in order to assist in the work of the Council. They do not participate in the votes. The Advisory Council ensures compliance with the fundamental orientations and objectives of the SPM It ensures the balance of powers within the SPM It arbitrates any differences within the Executive Board, and between the members of the SPM</target>
+                           </trans-unit>
+                           <trans-unit id="register.article13">
+                               <source>L'Assemblée Générale de la Société Psychanalytique Marocaine comprend les Membres Adhérents. Pourront néanmoins participer aux délibérations à titre d'observateurs les Membres Honoraires les Membres Bienfaiteurs les Membres Adhérents les Membres Associés L'Assemblée Générale Ordinaires se réunit une fois par an à la fin des journées annuelles ; Son ordre du jour sera établi par le Bureau mais il pourra être complété par quelques points rajoutés par les membres de l'Assemblée. L'Assemblée Générale entend les rapports sur le fonctionnement de la Société de Psychanalytique Marocaine et sur sa situation financière. Elle approuve les comptes de l'exercice clos, vote le budget de l'exercice suivant, délibère sur les questions mises à l'ordre du jour. Elle procède à l'élection du nouveau Bureau tous les trois ans. L'Assemblée Générale Ordinaire procède également à l'examen, à l'adoption ou au rejet du projet de règlement intérieur qui lui aura été soumis. Les délibérations sont prises à la majorité des voix des membres présents. Il est dressé procès-verbal de chaque réunion de l'Assemblée Générale. Une Assemblée Générale Extraordinaire peut être convoquée si nécessaire par le Président ou par les 2/3 des Membres du Bureau ou encore par les 2/3 de ses membres à des fins de modification des Statuts de l'Association ou de sa dissolution.</source>
+                               <target>The General Assembly of the Moroccan Psychoanalytic Society comprises the Adherent Members. Honorary Members, Benefactor Members, Adherent Members, Associate Members, may nevertheless participate in the deliberations as observers. The Ordinary General Assembly meets once a year at the end of the annual days; Its agenda will be established by the Bureau but it may be supplemented by a few points added by the members of the Assembly. The General Assembly hears the reports on the functioning of the Moroccan Psychoanalytic Society and on its financial situation. It approves the accounts for the closed financial year, votes on the budget for the following financial year, deliberates on the questions put on the agenda. It elects the new Bureau every three years. The Ordinary General Meeting also examines, adopts or rejects the draft internal regulations submitted to it. The deliberations are taken by a majority of the votes of the members present. The minutes of each meeting of the General Assembly are drawn up. An Extraordinary General Assembly can be convened if necessary by the President or by 2/3 of the Members of the Bureau or by 2/3 of its members for the purpose of modifying the Statutes of the Association or its dissolution.</target>
+                           </trans-unit>
+                           <trans-unit id="register.article14">
+                               <source>La Société Psychanalytique Marocaine pourra posséder tous les biens nécessaires au but qu'elle poursuit et à l'œuvre qu'elle se propose d'accomplir, dans les limites fixées par la Loi.</source>
+                               <target>The Moroccan Psychoanalytic Society may own all the goods necessary for the goal it pursues and the work it proposes to accomplish, within the limits set by law.</target>
+                           </trans-unit>
+                           <trans-unit id="register.article15">
+                               <source>Les ressources annuelles de l'Association se composent : des cotisations et souscriptions de ses membres des subventions qui pourront lui être accordées des intérêts de revenus des biens non compris dans le fonds de réserve des dons et legs autorisés des recettes de toute manifestation organisée par l'Association, dans le cadre de la législation en vigueur.</source>
+                               <target>The annual resources of the Association consist of: contributions and subscriptions from its members subsidies which may be granted to it interest on income from property not included in the reserve fund for authorized donations and bequests income from any event organized by the Association 'Association, within the framework of the legislation in force.</target>
+                           </trans-unit>
+
+                           <trans-unit id="register.article16">
+                               <source>Les dépenses de la Société Marocaine de Psychanalyse sont ordonnées par le Président après accord du Bureau.</source>
+                               <target>The expenses of the Moroccan Psychoanalysis Society are ordered by the President after agreement of the Bureau.</target>
+                           </trans-unit>
+
+                           <trans-unit id="register.article17">
+                               <source>Il est tenu au jour le jour une comptabilité des deniers par recettes et par dépenses, et s'il y a lieu une comptabilité matières.</source>
+                               <target>A day-to-day accounting of funds by income and expenditure is kept, and if necessary a stock accounting.</target>
+                           </trans-unit>
+
+                            <trans-unit id="register.article18">
+                               <source>Les ordres de retrait de fonds sont signés conjointement par le président et le trésorier de l'Association ou à défaut le vice président et le trésorier adjoint.</source>
+                               <target>The funds withdrawal orders are signed jointly by the president and the treasurer of the Association or failing that the vice president and the assistant treasurer.</target>
+                           </trans-unit>
+
+                            <trans-unit id="register.article19">
+                               <source>Les fonctions de membres du Comité Directeur sont gratuites. Toutefois ils peuvent bénéficier du remboursement de leurs frais de déplacement ou de toute autre dépense effectuée pour le compte de l'Association.</source>
+                               <target>The functions of members of the Steering Committee are free. However, they may benefit from the reimbursement of their travel expenses or any other expense incurred on behalf of the Association.</target>
+                           </trans-unit>
+
+                           <trans-unit id="register.article20">
+                               <source>Les Statuts ne peuvent être modifiés que par l'Assemblée Générale Extraordinaire avec l'approbation des 2/3 des membres. Au cas où le quorum n'est pas atteint, une deuxième Assemblée Générale est convoquée au moins 15 jours avant par lettre recommandée. Les décisions sont alors prises à la majorité simple des présents.</source>
+                               <target>The Statutes can only be modified by the Extraordinary General Assembly with the approval of 2/3 of the members. If the quorum is not reached, a second General Assembly is convened at least 15 days before by registered letter. Decisions are then taken by a simple majority of those present.</target>
+                           </trans-unit>
+
+                            <trans-unit id="register.article21">
+                                           <source>La dissolution de la Société Marocaine de Psychanalyse ne pourra être prononcée qu'en Assemblée Générale Extraordinaire, convoquée à cet effet un mois à l'avance, et la délibération doit être prise à la majorité des deux tiers des membres présents. En cas de dissolution, l'Assemblée Générale désigne un ou plusieurs commissaires chargés de la liquidation des biens de l'œuvre. Elle attribue l'actif net à une Association poursuivant le même objet ou à défaut à une oeuvre de bienfaisance.</source>
+                                           <target>The dissolution of the Moroccan Society of Psychoanalysis can only be pronounced in an Extraordinary General Assembly, convened for this purpose one month in advance, and the deliberation must be taken by a two-thirds majority of the members present. In the event of dissolution, the General Assembly appoints one or more commissioners responsible for the liquidation of the assets of the work. It allocates the net assets to an Association pursuing the same object or failing that to a charitable organization.</target>
+                            </trans-unit>-->
+
+
+                                                  <trans-unit id="menu.objectifs">
+                                                      <source>Buts et objectifs</source>
+                                                      <target>Goals and Objectives</target>
+                                                  </trans-unit>
+                                                  <trans-unit id="menu.action">
+                                                      <source>Les moyens d'action de la SPM sont</source>
+                                                      <target>The means of action of the SPM are</target>
+                                                  </trans-unit>
+                                                  <trans-unit id="menu.qualite">
+                                                      <source>Adhésion et qualité de membre</source>
+                                                      <target>Membership and membership</target>
+                                                  </trans-unit>
+                                                  <trans-unit id="menu.exclusion">
+                                                      <source>Démission, exclusion</source>
+                                                      <target>Resignation, exclusion</target>
+                                                  </trans-unit>
+                                                  <trans-unit id="post.soutiens">
+                                                      <source>Soutiens</source>
+                                                      <target>Support</target>
+                                                  </trans-unit>
+                                                  <trans-unit id="register.affiliation">
+                                                      <source>Affiliation</source>
+                                                      <target>Affiliation</target>
+                                                  </trans-unit>
+                                                  <trans-unit id="register.administration">
+                                                      <source>Administration</source>
+                                                      <target>Administration</target>
+                                                  </trans-unit>
+                                                  <trans-unit id="register.membres">
+                                                      <source>Attributions des Membres du Bureau</source>
+                                                      <target>Duties of the Members of the Bureau</target>
+                                                  </trans-unit>
+                                                  <trans-unit id="register.Meetings">
+                                                      <source>Réunions</source>
+                                                      <target>Meetings</target>
+                                                  </trans-unit>
+                                                  <trans-unit id="register.rules">
+                                                      <source>Le règlement intérieur</source>
+                                                      <target>The Rules</target>
+                                                  </trans-unit>
+                                                  <trans-unit id="register.council">
+                                                      <source>Le Conseil Consultatif</source>
+                                                      <target>The Advisory Council</target>
+                                                  </trans-unit>
+                                                  <trans-unit id="register.assemblies">
+                                                      <source>Assemblées Générales</source>
+                                                      <target>General Assemblies</target>
+                                                  </trans-unit>
+                                                                                                    <trans-unit id="register.OPERATION">
+                                                                                                        <source>ADMINISTRATION ET FONCTIONNEMENT</source>
+                                                                                                        <target>ADMINISTRATION AND OPERATION</target>
+                                                                                                    </trans-unit>
+                                                                                                    <trans-unit id="register.RESOURCES">
+                                                                                                        <source>RESSOURCES DE LA SPM</source>
+                                                                                                        <target>SPM RESOURCES</target>
+                                                                                                    </trans-unit>
+                                                                                                    <trans-unit id="register.DISSO">
+                                                                                                        <source>MODIFICATIONS DES STATUTS ET DISSOLUTION</source>
+                                                                                                        <target>AMENDMENTS TO THE STATUTES AND DISSOLUTION</target>
+                                                                                                    </trans-unit>
+
+
+
+
+        </body>
+    </file>
+</xliff>
