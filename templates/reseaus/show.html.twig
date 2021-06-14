@@ -6,7 +6,16 @@
 
     <article class="news showPost">
         <div class="card">
-            <img class="card-img-top" src="{{ '../../../../public/files/' ~ post.imgFileName}}" alt="Card image cap">
+            {% if ( post.imgFileName|split('.')|last == 'png') or (post.imgFileName|split('.')|last == 'jpg') or (post.imgFileName|split('.')|last == 'gif') %}
+                <img class="card-img-top" src="{{ '../../../../public/files/' ~ post.imgFileName}}" alt="Card image cap">
+
+            {% else %}
+
+                <a href="../../../../public/files/{{ post.imgFileName }}"  class="text-center">
+                <img style="width: 5em" class="card-img-top" src="/spm/public/files/nothing.png" alt="Card image cap"> </a>
+
+            {% endif %}
+
             <div class="container text-center">
             </div>
             <h2 class="card-title dateArt metadata">

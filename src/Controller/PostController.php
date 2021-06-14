@@ -13,6 +13,7 @@ use App\Entity\Post;
 use App\Form\PostType;
 use App\Entity\User;
 use App\Service\FileUploader;
+use Symfony\Component\Finder\SplFileInfo;
 
 /**
  * Class PostController
@@ -69,10 +70,16 @@ class PostController extends AbstractController
 
         if ($form->isSubmitted() && $form->isValid()) {
             $imgFile = $form['img']->getData();
-            
+
+
+
+
+
+
 
             if ($imgFile) {
                 $post->setImgFilename($fileUploader->upload($imgFile));
+
             }
 
             $this->getDoctrine()->getManager()->persist($post);

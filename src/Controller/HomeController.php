@@ -28,7 +28,7 @@ class HomeController extends AbstractController
      */
     public function index(PostRepository $repo, Request $request, PaginatorInterface $paginator, TagRepository $repoTag)
     {
-
+        $locale = $request->getLocale();
 
 
         $form = $this->createForm(PostsSearchType::class)->handleRequest($request);
@@ -57,6 +57,8 @@ class HomeController extends AbstractController
         ]);
     }
 
+
+
     /**
      * * @Route("/", name="home")
      *
@@ -67,6 +69,18 @@ class HomeController extends AbstractController
         return $this->render('reseaus/home.html.twig', [
             'title' => "Bienvenue!"
         ]);
+    }
+
+    /**
+     * * @Route("/change-locale/{locale}", name="change-locale")
+     *
+     * @return Response
+     */
+    public function changeLocale($locale, Request $request){
+
+        $request->getSession()->set('_locale', $locale);
+
+        return $this->redirect($request->headers->get('referer'));
     }
 
 

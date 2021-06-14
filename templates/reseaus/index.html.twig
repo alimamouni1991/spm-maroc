@@ -10,11 +10,17 @@
     </div>
     {% for post in posts %}
         <div class="news card col-lg-7 col-sm-12">
-{#            {% if post.imgFileName |split('.')|last == 'png' %}#}
-          <img class="card-img-top" src="{{ '/SocialNetwork-master/public/files/' ~ post.imgFileName }}" alt="Card image cap">
-        {#    {% else %}
-                <img class="card-img-top" src="{{ '/SocialNetwork-master/public/files/' ~ post.docFileName }}" alt="Card image cap">
-            {% endif %}#}
+          {% if ( post.imgFileName|split('.')|last == 'png') or (post.imgFileName|split('.')|last == 'jpg') or (post.imgFileName|split('.')|last == 'gif') %}
+              <img class="card-img-top" src="{{ '/spm/public/files/' ~ post.imgFileName }}" alt="Card image cap">
+
+                  {% else %}
+
+                      <a href="/spm/public/files/{{ post.imgFileName }}"  class="text-center">
+                          <img style="width: 5em" class="card-img-top" src="/spm/public/files/nothing.png" alt="Card image cap"> </a>
+
+            {% endif %}
+
+
             <div class="text-center card-header">
                 <a href="{{ path('show_user', {'id': post.user.id }) }}"><h3 class="user text-primary"><i
                                 class="fas fa-user-tie user"></i> {{ post.user.alias }}</h3></a>

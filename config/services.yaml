@@ -6,6 +6,7 @@
 parameters:
     locale: 'fr'
     targetDirectory: '%kernel.project_dir%/public/files'
+    app.locales: [fr, ar]
 
 services:
     # default configuration for services in *this* file

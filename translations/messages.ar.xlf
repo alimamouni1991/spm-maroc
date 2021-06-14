@@ -1,0 +1,1274 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="fr" target-language="ar" datatype="plaintext" original="file.ext">
+    <header>
+      <tool tool-id="symfony" tool-name="Symfony"/>
+    </header>
+    <body>
+      <trans-unit id="UzFhc1Y" resname="Accueil">
+        <source>Accueil</source>
+        <target> الصفحة الرئيسية</target>
+      </trans-unit>
+      <trans-unit id="grLrB6r" resname="Publications">
+        <source>Publications</source>
+        <target>المنشورات</target>
+      </trans-unit>
+      <trans-unit id="atpd2GI" resname="Exprimez vous">
+        <source>Exprimez vous</source>
+        <target>عبر عن نفسك</target>
+      </trans-unit>
+      <trans-unit id="_1_eksG" resname="Déconnexion">
+        <source>Déconnexion</source>
+        <target>تسجيل خروج</target>
+      </trans-unit>
+      <trans-unit id="YdaVBBA" resname="Connexion">
+        <source>Connexion</source>
+        <target>تسجيل الدخول</target>
+      </trans-unit>
+      <trans-unit id="piivmAm" resname="Créer un compte">
+        <source>Créer un compte</source>
+        <target>إفتح حساب</target>
+      </trans-unit>
+      <trans-unit id="btk9GoJ" resname="Gestion des Utilisateurs">
+        <source>Gestion des Utilisateurs</source>
+        <target>إدارةالمستخدم</target>
+      </trans-unit>
+      <trans-unit id="mmETQh8" resname="Gestion des Annonces">
+        <source>Gestion des Annonces</source>
+        <target>إدارة الإعلانات</target>
+      </trans-unit>
+      <trans-unit id="nov0xcP" resname="Présentation">
+        <source>Présentation</source>
+        <target>مقدمة</target>
+      </trans-unit>
+      <trans-unit id="L7nAljD" resname="La Sociéte Psychanalitique Marocaine">
+        <source>La Sociéte Psychanalitique Marocaine</source>
+        <target>الرابطة المغربية للتحليل النفسي</target>
+      </trans-unit>
+      <trans-unit id="TB9TAmO" resname="Fondée en Décembre 2001, la Société Psychanalytique Marocaine s’est donnée pour but de">
+        <source>Fondée en Décembre 2001, la Société Psychanalytique Marocaine s’est donnée pour but de</source>
+        <target>تأسست الرابطة المغربية للتحليل النفسي في ديسمبر 2001 ، وقد حددت لنفسها هدف</target>
+      </trans-unit>
+      <trans-unit id="r1olFrN" resname="promouvoir et de développer la psychanalyse au Maroc. Elle vise à assurer la formation des">
+        <source>promouvoir et de développer la psychanalyse au Maroc. Elle vise à assurer la formation des</source>
+        <target>تعزيز وتطوير التحليل النفسي في المغرب. يهدف إلى ضمان تدريب</target>
+      </trans-unit>
+      <trans-unit id="gSzbkZq" resname="psychanalystes tout en veillant au respect de l’éthique. Elle se propose également d’être un">
+        <source>psychanalystes tout en veillant au respect de l’éthique. Elle se propose également d’être un</source>
+        <target>المحللين النفسيين مع ضمان احترام الأخلاق. تقترح أيضًا أن تكون أ</target>
+      </trans-unit>
+      <trans-unit id="rfd2J1h" resname="lieu de transmission de la psychanalyse, ouvert à tous et non aux seuls initiés lieu de">
+        <source>lieu de transmission de la psychanalyse, ouvert à tous et non aux seuls initiés lieu de</source>
+        <target>مكان انتقال التحليل النفسي ، مفتوح للجميع وليس فقط للمبتدئين</target>
+      </trans-unit>
+      <trans-unit id="HngYxxa" resname="diffusion d’un savoir dont la particularité est de n’être jamais constitué une fois pour">
+        <source>diffusion d’un savoir dont la particularité est de n’être jamais constitué une fois pour</source>
+        <target>نشر المعرفة ، والتي تكمن خصوصيتها في أنها لم تتشكل مرة واحدة وللأجل</target>
+      </trans-unit>
+      <trans-unit id="uO9T02F" resname="toutes mais qui est sans cesse à recréer à la lumière de ce que nous enseigne l’inconscient">
+        <source>toutes mais qui est sans cesse à recréer à la lumière de ce que nous enseigne l’inconscient</source>
+        <target>كل شيء ما عدا ما يجب إعادة إنشائه باستمرار في ضوء ما يعلمنا إياه اللاوعي</target>
+      </trans-unit>
+      <trans-unit id="LhYyNbe" resname="et au travers aussi bien de la clinique que de la réalité socio-culturelle environnante">
+        <source>et au travers aussi bien de la clinique que de la réalité socio-culturelle environnante</source>
+        <target>ومن خلال العيادة والواقع الاجتماعي والثقافي المحيط بها</target>
+      </trans-unit>
+      <trans-unit id="kg5BPH1" resname="Status">
+        <source>Status</source>
+        <target>البنود</target>
+      </trans-unit>
+      <trans-unit id="GdvF9AQ" resname="voté le 07/12/2001, et modifié lors de l'assemblée générale">
+        <source>voté le 07/12/2001, et modifié lors de l'assemblée générale</source>
+        <target>تم التصويت عليها في 07/12/2001 وتعديلها خلال الجمعية العمومية
+        </target>
+      </trans-unit>
+      <trans-unit id="qq4VqLo" resname="extraordinaire du 02/02/2008">
+        <source>extraordinaire du 02/02/2008</source>
+        <target>غير عادي بتاريخ 02/02/2008
+        </target>
+      </trans-unit>
+      <trans-unit id="359kvuY" resname="A l'initiative des membres fondateurs réunis en Assemblée Constitutive le 07 décembre 2001">
+        <source>A l'initiative des membres fondateurs réunis en Assemblée Constitutive le 07 décembre 2001</source>
+        <target>بمبادرة من الأعضاء المؤسسين المجتمعين في الجمعية التأسيسية في 7 ديسمبر 2001</target>
+      </trans-unit>
+      <trans-unit id="VEpmeUM" resname="à Dar M'rini - Rabat, il est créé une Association dénommée Société Psychanalytique Marocaine">
+        <source>à Dar M'rini - Rabat, il est créé une Association dénommée Société Psychanalytique Marocaine</source>
+        <target>في دار مريني - الرباط ، تم إنشاء جمعية تسمى الرابطة المغربية للتحليل النفسي
+        </target>
+      </trans-unit>
+      <trans-unit id="d6mDqzJ" resname="conformément aux dispositions du">
+        <source>conformément aux dispositions du</source>
+        <target>وفقا لأحكام الظهير الشريف
+        </target>
+      </trans-unit>
+      <trans-unit id="W_m61.U" resname="novembre 1958) tel qu'il a été modifié par le dahir portant loi nº 1-73-285 du 6 Rabi' I">
+        <source>novembre 1958) tel qu'il a été modifié par le dahir portant loi nº 1-73-285 du 6 Rabi' I</source>
+        <target>نوفمبر 1958) المعدل بالظهير الشريف للقانون رقم 1-73-285 المؤرخ 6 ربيع الأول</target>
+      </trans-unit>
+      <trans-unit id="wBOEXYo" resname="1393 (10 avril 1973) réglementant le droit d'association. Les membres fondateurs sont les">
+        <source>1393 (10 avril 1973) réglementant le droit d'association. Les membres fondateurs sont les</source>
+        <target>1393 (10 أبريل 1973) ينظم حق تكوين الجمعيات. الأعضاء المؤسسون هم</target>
+      </trans-unit>
+      <trans-unit id="NYfcrSY" resname="personnes suivantes : Abdel Jalil BENNANI, Khalid EL ALJ, Abdeslam DACHMI, Mohamed JAMAI,">
+        <source>personnes suivantes : Abdel Jalil BENNANI, Khalid EL ALJ, Abdeslam DACHMI, Mohamed JAMAI,</source>
+        <target>المتابعين: عبد الجليل بناني ، خالد العالج ، عبد السلام الداشمي ، محمد الجامع ،</target>
+      </trans-unit>
+      <trans-unit id="xk0U3X2" resname="Ahmed Farid MERINI, Abdellah OUARDINI, Mohamed Hachem TYAL. Le siège de la SPM est situé à">
+        <source>Ahmed Farid MERINI, Abdellah OUARDINI, Mohamed Hachem TYAL. Le siège de la SPM est situé à</source>
+        <target>أحمد فريد المريني ، عبد الله ورديني ، محمد هاشم طيال. يقع مقر SPM في
+        </target>
+      </trans-unit>
+      <trans-unit id="no6QMUf" resname="Rabat et domicilié à la Boite Postale de l'Association. Il pourra être transféré en tous">
+        <source>Rabat et domicilié à la Boite Postale de l'Association. Il pourra être transféré en tous</source>
+        <target>الرباط ومقرها صندوق بريد الجمعية. يمكن نقلها في الكل
+        </target>
+      </trans-unit>
+      <trans-unit id="8R4IE80" resname="lieux dans la même ville ou dans une autre ville par décision de l'Assemblée Générale">
+        <source>lieux dans la même ville ou dans une autre ville par décision de l'Assemblée Générale</source>
+        <target>أماكن في نفس المدينة أو في مدينة أخرى بقرار من الجمعية العامة
+        </target>
+      </trans-unit>
+      <trans-unit id="u93ATFI" resname="Ordinaire.">
+        <source>Ordinaire.</source>
+        <target>عادي.</target>
+      </trans-unit>
+      <trans-unit id="iWgdWbg" resname="BUTS ET COMPOSITION DE LA SPM">
+        <source>BUTS ET COMPOSITION DE LA SPM</source>
+        <target>أهداف وتكوين SPM</target>
+      </trans-unit>
+      <trans-unit id="SZYXeRH" resname="Buts et objectifs">
+        <source>Buts et objectifs</source>
+        <target>أهداف و غايات</target>
+      </trans-unit>
+      <trans-unit id="8m2xXwi" resname="d'assurer la formation des psychanalystes au Maroc ;">
+        <source>d'assurer la formation des psychanalystes au Maroc ;</source>
+        <target>لضمان تدريب المحللين النفسيين في المغرب ؛</target>
+      </trans-unit>
+      <trans-unit id="MFiaE59" resname="de promouvoir et de développer la psychanalyse au Maroc ;">
+        <source>de promouvoir et de développer la psychanalyse au Maroc ;</source>
+        <target>لتعزيز وتطوير التحليل النفسي في المغرب.
+        </target>
+      </trans-unit>
+      <trans-unit id="y0.6I7x" resname="de veiller au respect de l'éthique dans le cadre de cette formation.">
+        <source>de veiller au respect de l'éthique dans le cadre de cette formation.</source>
+        <target>لضمان احترام الأخلاق في إطار هذا التدريب.</target>
+      </trans-unit>
+      <trans-unit id="a3Emn_5" resname="Pour parvenir à ses objectifs, la SPM se propose de mettre en place les moyens pour assurer">
+        <source>Pour parvenir à ses objectifs, la SPM se propose de mettre en place les moyens pour assurer</source>
+        <target>ولتحقيق أهدافها ، تقترح الأمانة العامة للسياسات (SPM) وضع وسائل لضمان ذلك
+        </target>
+      </trans-unit>
+      <trans-unit id="QPYOVAh" resname="la psychanalyse personnelle">
+        <source>la psychanalyse personnelle</source>
+        <target>التحليل النفسي الشخصي</target>
+      </trans-unit>
+      <trans-unit id="aHtxwdL" resname="la pratique de &quot; contrôle &quot; ;">
+        <source>la pratique de " contrôle " ;</source>
+        <target>ممارسة "السيطرة" ؛</target>
+      </trans-unit>
+      <trans-unit id="t2emoPx" resname="la formation théorique ;">
+        <source>la formation théorique ;</source>
+        <target>تدريب نظري</target>
+      </trans-unit>
+      <trans-unit id="MnYIgni" resname="l'habilitation à la pratique de la cure psychanalytique par une commission composée de trois">
+        <source>l'habilitation à la pratique de la cure psychanalytique par une commission composée de trois</source>
+        <target>الاعتماد لممارسة العلاج النفسي من قبل لجنة مكونة من ثلاثة
+        </target>
+      </trans-unit>
+      <trans-unit id="toDGOBQ" resname="praticiens confirmés.">
+        <source>praticiens confirmés.</source>
+        <target>الممارسين ذوي الخبرة.</target>
+      </trans-unit>
+      <trans-unit id="bRmXQwM" resname="Les praticiens qui seront amenés à dispenser une formation seront soit des praticiens">
+        <source>Les praticiens qui seront amenés à dispenser une formation seront soit des praticiens</source>
+        <target>سيكون الممارسون الذين سيُطلب منهم توفير التدريب إما ممارسين
+        </target>
+      </trans-unit>
+      <trans-unit id="NTMOxZ2" resname="marocains, soit des praticiens étrangers. La SPM vise ainsi à faire bénéficier les futurs">
+        <source>marocains, soit des praticiens étrangers. La SPM vise ainsi à faire bénéficier les futurs</source>
+        <target>المغاربة أو الممارسون الأجانب. وبالتالي يهدف SPM إلى إفادة المستقبل
+        </target>
+      </trans-unit>
+      <trans-unit id="Q8KKwTA" resname="psychanalystes de la formation la plus ouverte et la plus large possible, tenant compte en">
+        <source>psychanalystes de la formation la plus ouverte et la plus large possible, tenant compte en</source>
+        <target>المحللين النفسيين ذوي التدريب الأكثر انفتاحًا وأوسع نطاق ممكن ، مع مراعاة</target>
+      </trans-unit>
+      <trans-unit id="kGdQvJc" resname="cela des différents développements qu'a connu la psychanalyse depuis sa fondation par">
+        <source>cela des différents développements qu'a connu la psychanalyse depuis sa fondation par</source>
+        <target>أن التطورات المختلفة التي عرفها التحليل النفسي منذ تأسيسه</target>
+      </trans-unit>
+      <trans-unit id="LF24yRT" resname="Freud">
+        <source>Freud</source>
+        <target>فرويد</target>
+      </trans-unit>
+      <trans-unit id="aBoPuQ_" resname="Les moyens d'action de la SPM sont">
+        <source>Les moyens d'action de la SPM sont</source>
+        <target>وسائل عمل SPM هي</target>
+      </trans-unit>
+      <trans-unit id="4Uu1DP8" resname="La SPM veillera à">
+        <source>La SPM veillera à</source>
+        <target>سيضمن SPM</target>
+      </trans-unit>
+      <trans-unit id="D72k2tH" resname="mettre en place les documents de base réglementant les différentes activités de">
+        <source>mettre en place les documents de base réglementant les différentes activités de</source>
+        <target>إعداد الوثائق الأساسية التي تنظم الأنشطة المختلفة لـ</target>
+      </trans-unit>
+      <trans-unit id="DxpbcZV" resname="l'Association.">
+        <source>l'Association.</source>
+        <target>الجمعية.</target>
+      </trans-unit>
+      <trans-unit id="umfuM8P" resname="instituer des groupes de travail (cartels) composés de quatre personnes au moins, en vue">
+        <source>instituer des groupes de travail (cartels) composés de quatre personnes au moins, en vue</source>
+        <target>تشكيل مجموعات عمل (كارتلات) تتألف من أربعة أشخاص على الأقل بهدف</target>
+      </trans-unit>
+      <trans-unit id="PBurVtr" resname="d'assurer un travail régulier entre les membres de l'Association.">
+        <source>d'assurer un travail régulier entre les membres de l'Association.</source>
+        <target>لضمان العمل المنتظم بين أعضاء الجمعية.</target>
+      </trans-unit>
+      <trans-unit id="bF7HgeR" resname="organiser des séminaires, des conférences, des colloques, des congrès nationaux et">
+        <source>organiser des séminaires, des conférences, des colloques, des congrès nationaux et</source>
+        <target>تنظيم الندوات والمؤتمرات والندوات والمؤتمرات الوطنية و</target>
+      </trans-unit>
+      <trans-unit id="K._okPR" resname="internationaux.">
+        <source>internationaux.</source>
+        <target>دولي</target>
+      </trans-unit>
+      <trans-unit id="CkOkEL7" resname="organiser la tenue de journées annuelles de l'Association et, si possible, semestrielles.">
+        <source>organiser la tenue de journées annuelles de l'Association et, si possible, semestrielles.</source>
+        <target>تنظيم أيام الجمعية السنوية ، وإذا أمكن ، أيام نصف سنوية.</target>
+      </trans-unit>
+      <trans-unit id="dx5upfZ" resname="assurer la publication des travaux de ses membres qui réunissent les conditions de">
+        <source>assurer la publication des travaux de ses membres qui réunissent les conditions de</source>
+        <target>التأكد من نشر أعمال أعضائها المستوفين لشروط</target>
+      </trans-unit>
+      <trans-unit id="P5RF6gJ" resname="publication.">
+        <source>publication.</source>
+        <target>النشر.</target>
+      </trans-unit>
+      <trans-unit id="NYnIU.g" resname="promouvoir différentes actions culturelles au profit de ses membres.">
+        <source>promouvoir différentes actions culturelles au profit de ses membres.</source>
+        <target>تعزيز الأنشطة الثقافية المختلفة لصالح أعضائها.</target>
+      </trans-unit>
+      <trans-unit id="EuVc0bl" resname="développer le champ de la recherche en psychanalyse.">
+        <source>développer le champ de la recherche en psychanalyse.</source>
+        <target>تطوير مجال البحث في التحليل النفسي.</target>
+      </trans-unit>
+      <trans-unit id="lEYLzuV" resname="encourager le travail sur les traductions françaises, anglaises ou espagnoles de textes">
+        <source>encourager le travail sur les traductions françaises, anglaises ou espagnoles de textes</source>
+        <target>تشجيع العمل على الترجمات الفرنسية أو الإنجليزية أو الإسبانية للنصوص</target>
+      </trans-unit>
+      <trans-unit id="p2Vv0zR" resname="psychanalytiques allemands. Elle favorisera également toute initiative susceptible d'aider à">
+        <source>psychanalytiques allemands. Elle favorisera également toute initiative susceptible d'aider à</source>
+        <target>التحليلات النفسية الألمانية. كما أنه سيعزز أي مبادرة من المحتمل أن تساعد</target>
+      </trans-unit>
+      <trans-unit id="Bxz.k59" resname="la traduction en arabe des textes psychanalytiques.">
+        <source>la traduction en arabe des textes psychanalytiques.</source>
+        <target>ترجمة نصوص التحليل النفسي إلى اللغة العربية.</target>
+      </trans-unit>
+      <trans-unit id="ia84RiQ" resname="assurer des contacts périodiques avec tous les organismes ou associations ayant des">
+        <source>assurer des contacts périodiques avec tous les organismes ou associations ayant des</source>
+        <target>ضمان الاتصالات الدورية مع جميع المنظمات أو الجمعيات التي لها</target>
+      </trans-unit>
+      <trans-unit id="W4HGjdb" resname="activités similaires.">
+        <source>activités similaires.</source>
+        <target>أنشطة مماثلة.</target>
+      </trans-unit>
+      <trans-unit id="F1dPvnv" resname="créer une bibliothèque et se doter d'une banque de données informatisée.">
+        <source>créer une bibliothèque et se doter d'une banque de données informatisée.</source>
+        <target>إنشاء مكتبة والحصول على قاعدة بيانات محوسبة.</target>
+      </trans-unit>
+      <trans-unit id="QG28ayu" resname="Adhésion et qualité de membre">
+        <source>Adhésion et qualité de membre</source>
+        <target>العضوية والعضوية</target>
+      </trans-unit>
+      <trans-unit id="ZryA.mO" resname="Les Membres Adhérents de la">
+        <source>Les Membres Adhérents de la</source>
+        <target>أعضاء ملتزمون</target>
+      </trans-unit>
+      <trans-unit id="lzMlDVD" resname="Peuvent être Membres Adhérents de la SPM :">
+        <source>Peuvent être Membres Adhérents de la SPM :</source>
+        <target>يمكن للأشخاص التالين أن يكونوا أعضاء منتسبين في SPM:</target>
+      </trans-unit>
+      <trans-unit id="n3Wxzfo" resname="les praticiens de la santé mentale au Maroc ;">
+        <source>les praticiens de la santé mentale au Maroc ;</source>
+        <target>ممارسو الصحة النفسية في المغرب.</target>
+      </trans-unit>
+      <trans-unit id="McjsBPx" resname="les psychanalystes exerçant à l'étranger et inscrits dans un processus de formation">
+        <source>les psychanalystes exerçant à l'étranger et inscrits dans un processus de formation</source>
+        <target>المحللين النفسيين العاملين في الخارج والمسجلين في عملية تدريبية</target>
+      </trans-unit>
+      <trans-unit id="RCftYYs" resname="analytique et dont la pratique fait l'objet d'une reconnaissance, soit dans le cadre d'une">
+        <source>analytique et dont la pratique fait l'objet d'une reconnaissance, soit dans le cadre d'une</source>
+        <target>التحليلية والتي يتم الاعتراف بممارستها ، إما في إطار أ</target>
+      </trans-unit>
+      <trans-unit id="QfgI7J3" resname="institution, soit par leurs travaux">
+        <source>institution, soit par leurs travaux</source>
+        <target>المؤسسة ، أو من خلال عملهم</target>
+      </trans-unit>
+      <trans-unit id="2W5_Bjs" resname="Pour être Membre Adhérent, il faut présenter sa candidature au Bureau de l'Association, être">
+        <source>Pour être Membre Adhérent, il faut présenter sa candidature au Bureau de l'Association, être</source>
+        <target>لكي تكون عضوا منتسبا ، يجب عليك تقديم طلبك إلى مكتب الجمعية ، يكون</target>
+      </trans-unit>
+      <trans-unit id="SAzbm.2" resname="agréé par celui-ci, avoir payé sa cotisation annuelle et se soumettre aux décisions de">
+        <source>agréé par celui-ci, avoir payé sa cotisation annuelle et se soumettre aux décisions de</source>
+        <target>المعتمدة من قبلها ، ودفع اشتراكها السنوي وتقديمها لقرارات</target>
+      </trans-unit>
+      <trans-unit id="7U2kh4n" resname="l'Association conformément aux dispositions statutaires et réglementaires.">
+        <source>l'Association conformément aux dispositions statutaires et réglementaires.</source>
+        <target>الجمعية وفق أحكام قانونية وتنظيمية.</target>
+      </trans-unit>
+      <trans-unit id="JTgLb.g" resname="Seuls les membres adhérents sont habilités à voter dans les différentes institutions de la">
+        <source>Seuls les membres adhérents sont habilités à voter dans les différentes institutions de la</source>
+        <target>يحق للأعضاء الملتزمين فقط التصويت في مختلف مؤسسات</target>
+      </trans-unit>
+      <trans-unit id="94GILmn" resname="SPM (Assemblée Générale Ordinaire, Assemblée Générale Extraordinaire…)">
+        <source>SPM (Assemblée Générale Ordinaire, Assemblée Générale Extraordinaire…)</source>
+        <target>SPM (الجمعية العامة العادية ، الجمعية العامة غير العادية ، إلخ.)</target>
+      </trans-unit>
+      <trans-unit id="5L6Kvvi" resname="Les Membres Associés de la SPM :">
+        <source>Les Membres Associés de la SPM :</source>
+        <target>الأعضاء المنتسبون إلى SPM:</target>
+      </trans-unit>
+      <trans-unit id="SHFFusl" resname="Peuvent être Membres Associés :">
+        <source>Peuvent être Membres Associés :</source>
+        <target>يمكن أن يكونوا أعضاء منتسبين:
+        </target>
+      </trans-unit>
+      <trans-unit id="lYvMWYp" resname="les personnes qui, par leurs préoccupations professionnelles ou par leurs recherches">
+        <source>les personnes qui, par leurs préoccupations professionnelles ou par leurs recherches</source>
+        <target>الأشخاص الذين ، من خلال اهتماماتهم المهنية أو من خلال أبحاثهم</target>
+      </trans-unit>
+      <trans-unit id="7ZpR7He" resname="personnelles sont intéressées par la psychanalyse ;">
+        <source>personnelles sont intéressées par la psychanalyse ;</source>
+        <target>يهتم الناس بالتحليل النفسي ؛</target>
+      </trans-unit>
+      <trans-unit id="6KA8Of1" resname="les étudiants en formation en psychiatrie, en psychologie ou dans une autre branche de la">
+        <source>les étudiants en formation en psychiatrie, en psychologie ou dans une autre branche de la</source>
+        <target>الطلاب في التدريب في الطب النفسي وعلم النفس أو فرع آخر من
+        </target>
+      </trans-unit>
+      <trans-unit id="JZMjh0V" resname="santé mentale.">
+        <source>santé mentale.</source>
+        <target>الصحة العقلية.
+        </target>
+      </trans-unit>
+      <trans-unit id="kp0yX07" resname="Pour être Membre Associé, il est nécessaire d'avoir le parrainage de deux membres du Bureau.">
+        <source>Pour être Membre Associé, il est nécessaire d'avoir le parrainage de deux membres du Bureau.</source>
+        <target>لكي تكون عضوا منتسبا ، من الضروري أن يكون برعاية عضوين من أعضاء المكتب.</target>
+      </trans-unit>
+      <trans-unit id="nYlbxJ5" resname="Les Membres associés n'ont pas de voix élective. Les Membres Associés doivent s'acquitter">
+        <source>Les Membres associés n'ont pas de voix élective. Les Membres Associés doivent s'acquitter</source>
+        <target>_ليس للأعضاء المنتسبين تصويت انتخابي. يجب على الأعضاء المنتسبين الدفع</target>
+      </trans-unit>
+      <trans-unit id="IvrpMum" resname="d'une cotisation annuelle dont le montant sera fixé par le Bureau.">
+        <source>d'une cotisation annuelle dont le montant sera fixé par le Bureau.</source>
+        <target>اشتراك سنوي ، يحدد المكتب قيمته.</target>
+      </trans-unit>
+      <trans-unit id="DCwPI8I" resname="Les Membres Fondateurs :">
+        <source>Les Membres Fondateurs :</source>
+        <target>الأعضاء المؤسسون:</target>
+      </trans-unit>
+      <trans-unit id="6cs4qkQ" resname="Ce sont les personnes ayant créé l'Association.">
+        <source>Ce sont les personnes ayant créé l'Association.</source>
+        <target>هؤلاء هم الأشخاص الذين أنشأوا الجمعية.</target>
+      </trans-unit>
+      <trans-unit id="mm5SYC5" resname="Les Membres Bienfaiteurs :">
+        <source>Les Membres Bienfaiteurs :</source>
+        <target>الأعضاء المستفيدون:</target>
+      </trans-unit>
+      <trans-unit id="Das_CId" resname="Ce sont les personnes qui apportent leur soutien moral, matériel ou technique à">
+        <source>Ce sont les personnes qui apportent leur soutien moral, matériel ou technique à</source>
+        <target>هؤلاء هم الأشخاص الذين يقدمون الدعم المعنوي أو المادي أو الفني</target>
+      </trans-unit>
+      <trans-unit id="0UjyhyY" resname="Pour être Membre Bienfaiteur, il faut être agréé par le Bureau et avoir réglé sa cotisation">
+        <source>Pour être Membre Bienfaiteur, il faut être agréé par le Bureau et avoir réglé sa cotisation</source>
+        <target>لكي تكون عضوًا فاعلًا ، يجب أن تتم الموافقة عليك من قبل المكتب ودفع اشتراكك.</target>
+      </trans-unit>
+      <trans-unit id="r9AARCU" resname="annuelle.">
+        <source>annuelle.</source>
+        <target>سنوي.</target>
+      </trans-unit>
+      <trans-unit id="zS8fiyb" resname="Les Membres Honoraires :">
+        <source>Les Membres Honoraires :</source>
+        <target>الأعضاء الفخريون:</target>
+      </trans-unit>
+      <trans-unit id="YuS6ic5" resname="Ce sont les personnes qui se sont distinguées par leurs travaux et qui soutiennent">
+        <source>Ce sont les personnes qui se sont distinguées par leurs travaux et qui soutiennent</source>
+        <target>هؤلاء هم الأشخاص الذين تميزوا بعملهم والذين يدعمونهم</target>
+      </trans-unit>
+      <trans-unit id="xhFQ4Ue" resname="Ils seront choisis sur proposition du Bureau.">
+        <source>Ils seront choisis sur proposition du Bureau.</source>
+        <target>Ils seront choisis sur proposition du Bureau.</target>
+      </trans-unit>
+      <trans-unit id="qFcKsic" resname="Les Membres Correspondants :">
+        <source>Les Membres Correspondants :</source>
+        <target>الأعضاء المراسلون:</target>
+      </trans-unit>
+      <trans-unit id="OrVPXFb" resname="Ce sont des personnes qui sont chargées de diffuser les travaux de l'Association et">
+        <source>Ce sont des personnes qui sont chargées de diffuser les travaux de l'Association et</source>
+        <target>هؤلاء هم الأشخاص المسؤولون عن نشر أعمال الجمعية و</target>
+      </trans-unit>
+      <trans-unit id="METbH9n" resname="favoriser les relations et les échanges avec d'autres Associations au niveau international.">
+        <source>favoriser les relations et les échanges avec d'autres Associations au niveau international.</source>
+        <target>تعزيز العلاقات والتبادلات مع الجمعيات الأخرى على المستوى الدولي.</target>
+      </trans-unit>
+      <trans-unit id="D1TlRk_" resname="Ils peuvent être proposés par le Bureau ou admis, suite à leur propre demande, après">
+        <source>Ils peuvent être proposés par le Bureau ou admis, suite à leur propre demande, après</source>
+        <target>يمكن للمكتب اقتراحهم أو قبولهم ، بناءً على طلبهم الخاص ، بعد ذلك</target>
+      </trans-unit>
+      <trans-unit id="SuY7jlh" resname="acceptation du Bureau.">
+        <source>acceptation du Bureau.</source>
+        <target>قبول المكتب.</target>
+      </trans-unit>
+      <trans-unit id="lgLR6LG" resname="Démission, exclusion">
+        <source>Démission, exclusion</source>
+        <target>الاستقالة والإقصاء</target>
+      </trans-unit>
+      <trans-unit id="TjAoTLx" resname="La qualité de Membre Adhérent de la SPM se perd : par décès  par démission">
+        <source>La qualité de Membre Adhérent de la SPM se perd : par décès  par démission</source>
+        <target>فقدت صفة العضو الملتزم بالحزب الشيوعي السوداني: بالموت بالاستقالة
+        </target>
+      </trans-unit>
+      <trans-unit id="37zoSEP" resname="par radiation prononcée par le Bureau aux 2/3 de ses voix, soit pour refus ou défaut de">
+        <source>par radiation prononcée par le Bureau aux 2/3 de ses voix, soit pour refus ou défaut de</source>
+        <target>بشطب ما أعلنه المكتب بأغلبية ثلثي أصواته ، إما لرفضه أو لعدمه</target>
+      </trans-unit>
+      <trans-unit id="BVM6vDC" resname="paiement régulier des cotisations, soit pour motif grave, l'intéressé ayant été">
+        <source>paiement régulier des cotisations, soit pour motif grave, l'intéressé ayant été</source>
+        <target>السداد المنتظم للاشتراكات ، إما لأسباب جدية ، إذا كان الشخص المعني</target>
+      </trans-unit>
+      <trans-unit id="NZkJDcl" resname="préalablement appelé à fournir des explications.">
+        <source>préalablement appelé à fournir des explications.</source>
+        <target>تم استدعاؤه مسبقًا لتقديم تفسيرات.</target>
+      </trans-unit>
+      <trans-unit id="vUShchS" resname="Pourront être exclus de la Société les membres :">
+        <source>Pourront être exclus de la Société les membres :</source>
+        <target>يجوز استبعاد الأعضاء من الرابطة:</target>
+      </trans-unit>
+      <trans-unit id="BnEj9ao" resname="ne participant pas à ses activités ;">
+        <source>ne participant pas à ses activités ;</source>
+        <target>لا تشارك في أنشطتها
+        </target>
+      </trans-unit>
+      <trans-unit id="5v2tVTk" resname="ne respectant pas l'éthique de la profession ;">
+        <source>ne respectant pas l'éthique de la profession ;</source>
+        <target>عدم احترام أخلاق المهنة.</target>
+      </trans-unit>
+      <trans-unit id="EEOt.6_" resname="ne payant pas leur cotisation.">
+        <source>ne payant pas leur cotisation.</source>
+        <target>عدم دفع رسوم العضوية الخاصة بهم.</target>
+      </trans-unit>
+      <trans-unit id="bncSp7d" resname="La radiation doit obligatoirement être entérinée par l'AG la plus proche.">
+        <source>La radiation doit obligatoirement être entérinée par l'AG la plus proche.</source>
+        <target>يجب أن يتم التصديق على الإلغاء من قبل أقرب جمعية عامة.</target>
+      </trans-unit>
+      <trans-unit id="W5w6S_g" resname="Soutiens">
+        <source>Soutiens</source>
+        <target>الدعم</target>
+      </trans-unit>
+      <trans-unit id="Ya91UJ1" resname="La Société peut recevoir des soutiens, sur le plan théorique et matériel, venant de">
+        <source>La Société peut recevoir des soutiens, sur le plan théorique et matériel, venant de</source>
+        <target>يمكن أن تتلقى الرابطة دعمًا نظريًا وماديًا من</target>
+      </trans-unit>
+      <trans-unit id="wVpb9Sc" resname="personnes ou d'Associations marocaines ou étrangères, susceptibles de l'aider à atteindre">
+        <source>personnes ou d'Associations marocaines ou étrangères, susceptibles de l'aider à atteindre</source>
+        <target> الناس أو الجمعيات المغربية أو الأجنبية ، التي من المرجح أن تساعد في الوصول</target>
+      </trans-unit>
+      <trans-unit id="wjf.GeX" resname="ses buts et ses objectifs dans le respect des lois en vigueur.">
+        <source>ses buts et ses objectifs dans le respect des lois en vigueur.</source>
+        <target>أهدافها وغاياتها بما يتوافق مع القوانين المعمول بها.</target>
+      </trans-unit>
+      <trans-unit id="o7iHop4" resname="Affiliation">
+        <source>Affiliation</source>
+        <target>انتساب</target>
+      </trans-unit>
+      <trans-unit id="7nzaHDB" resname="La Société peut être affiliée à d'autres Sociétés ou Associations internationales après">
+        <source>La Société peut être affiliée à d'autres Sociétés ou Associations internationales après</source>
+        <target>قد تكون الرابطة تابعة لجمعيات أخرى أو جمعيات دولية بعد</target>
+      </trans-unit>
+      <trans-unit id="6HiwT8C" resname="décision du Bureau. Elle pourra aussi établir des relations de partenariat avec ces">
+        <source>décision du Bureau. Elle pourra aussi établir des relations de partenariat avec ces</source>
+        <target>قرار المكتب. كما ستكون قادرة على إقامة علاقات شراكة مع هؤلاء</target>
+      </trans-unit>
+      <trans-unit id="XDupOT." resname="institutions">
+        <source>institutions</source>
+        <target>المؤسسات</target>
+      </trans-unit>
+      <trans-unit id="FbD3CrX" resname="ADMINISTRATION ET FONCTIONNEMEN">
+        <source>ADMINISTRATION ET FONCTIONNEMEN</source>
+        <target>الإدارة والتشغيل</target>
+      </trans-unit>
+      <trans-unit id="S0LGaQ6" resname="Administration">
+        <source>Administration</source>
+        <target>الادارة</target>
+      </trans-unit>
+      <trans-unit id="YZt24Gg" resname="L'administration de la Société Psychanalytique Marocaine est dévolue à un Bureau. Le">
+        <source>L'administration de la Société Psychanalytique Marocaine est dévolue à un Bureau. Le</source>
+        <target>تم تفويض إدارة الرابطة المغربية للتحليل النفسي إلى مكتب. ال</target>
+      </trans-unit>
+      <trans-unit id="WnS5a9J" resname="programme d'activités de la SPM est défini par celui-ci. Le Bureau est investi des pouvoirs">
+        <source>programme d'activités de la SPM est défini par celui-ci. Le Bureau est investi des pouvoirs</source>
+        <target>يتم تعريف برنامج نشاط SPM من خلاله. للمكتب الصلاحيات</target>
+      </trans-unit>
+      <trans-unit id="pEiBiJj" resname="les plus étendus pour l'administration et le contrôle financier de la SPM.">
+        <source>les plus étendus pour l'administration et le contrôle financier de la SPM.</source>
+        <target>الأكثر شمولاً للإدارة والرقابة المالية لـ SPM.</target>
+      </trans-unit>
+      <trans-unit id="2gpirr." resname="Le Bureau est élu pour trois ans par l'Assemblée Générale et comprend:">
+        <source>Le Bureau est élu pour trois ans par l'Assemblée Générale et comprend:</source>
+        <target>يتم انتخاب المكتب لمدة ثلاث سنوات من قبل الجمعية العامة ويشمل:</target>
+      </trans-unit>
+      <trans-unit id="Qs8nXTM" resname="un Président">
+        <source>un Président</source>
+        <target>الرئيس</target>
+      </trans-unit>
+      <trans-unit id="pj53kYV" resname="un Vice-Président">
+        <source>un Vice-Président</source>
+        <target>نائب الرئيس</target>
+      </trans-unit>
+      <trans-unit id="odaSrwQ" resname="un Secrétaire Général">
+        <source>un Secrétaire Général</source>
+        <target>أمين عام
+        </target>
+      </trans-unit>
+      <trans-unit id="a9hmyM." resname="un Secrétaire Général Adjoint">
+        <source>un Secrétaire Général Adjoint</source>
+        <target>نائب أمين عام</target>
+      </trans-unit>
+      <trans-unit id="tYnOz5W" resname="un Trésorier">
+        <source>un Trésorier</source>
+        <target>أمين الصندوق</target>
+      </trans-unit>
+      <trans-unit id="ZSyHl5v" resname="un Trésorier Adjoint">
+        <source>un Trésorier Adjoint</source>
+        <target>مساعد أمين الصندوق</target>
+      </trans-unit>
+      <trans-unit id="Ba_rALk" resname="un conseiller">
+        <source>un conseiller</source>
+        <target>مستشار</target>
+      </trans-unit>
+      <trans-unit id="bEjQlTi" resname="Attributions des Membres du Bureau">
+        <source>Attributions des Membres du Bureau</source>
+        <target>واجبات أعضاء المكتب</target>
+      </trans-unit>
+      <trans-unit id="_kk8oP7" resname="Le Président :">
+        <source>Le Président :</source>
+        <target>واجبات أعضاء المكتب</target>
+      </trans-unit>
+      <trans-unit id="7PCUI0f" resname="Il est le responsable et le représentant de l'Association. Il préside les Assemblées">
+        <source>Il est le responsable et le représentant de l'Association. Il préside les Assemblées</source>
+        <target>هو مدير وممثل الجمعية. يترأس الجمعيات</target>
+      </trans-unit>
+      <trans-unit id="vPyGqFQ" resname="Générales, les réunions du Bureau. Il veille à la bonne marche de l'Association, à">
+        <source>Générales, les réunions du Bureau. Il veille à la bonne marche de l'Association, à</source>
+        <target>اجتماعات المكتب العامة. يضمن حسن سير عمل الجمعية ،</target>
+      </trans-unit>
+      <trans-unit id="d7ysadZ" resname="l'exécution des décisions de l'Assemblée Générale, au respect des directives du Bureau et">
+        <source>l'exécution des décisions de l'Assemblée Générale, au respect des directives du Bureau et</source>
+        <target>تنفيذ قرارات الجمعية العمومية ، واحترام توجيهات المكتب و</target>
+      </trans-unit>
+      <trans-unit id="wgvn1jU" resname="des statuts. Le Président signe tous les documents et procès-verbaux.">
+        <source>des statuts. Le Président signe tous les documents et procès-verbaux.</source>
+        <target>القوانين. يوقع الرئيس جميع الوثائق والمحاضر.</target>
+      </trans-unit>
+      <trans-unit id="odSBUHy" resname="La fonction de Président ne peut être assumée plus de six ans d'affilée. Un ancien Président">
+        <source>La fonction de Président ne peut être assumée plus de six ans d'affilée. Un ancien Président</source>
+        <target>لا يمكن تولي منصب الرئيس لأكثر من ست سنوات متتالية. رئيس سابق</target>
+      </trans-unit>
+      <trans-unit id="R19CzCy" resname="peut cependant assumer de nouveau la présidence trois ans après la fin de son dernier">
+        <source>peut cependant assumer de nouveau la présidence trois ans après la fin de son dernier</source>
+        <target>يجوز له ، مع ذلك ، تولي الرئاسة مرة أخرى بعد ثلاث سنوات من انتهاء ولايته الأخيرة</target>
+      </trans-unit>
+      <trans-unit id="mb56szF" resname="mandat.">
+        <source>mandat.</source>
+        <target>تفويض.</target>
+      </trans-unit>
+      <trans-unit id="pNz66PI" resname="Le Vice-Président :">
+        <source>Le Vice-Président :</source>
+        <target>نائب الرئيس :
+        </target>
+      </trans-unit>
+      <trans-unit id=".R3UOLp" resname="Il seconde le Président dans ses tâches et le remplace en cas d'absence ou d'empêchement">
+        <source>Il seconde le Président dans ses tâches et le remplace en cas d'absence ou d'empêchement</source>
+        <target>يساعد الرئيس في مهامه ويحل محله في حال غيابه أو عجزه</target>
+      </trans-unit>
+      <trans-unit id="474KaqE" resname="avec les mêmes pouvoirs que les siens.">
+        <source>avec les mêmes pouvoirs que les siens.</source>
+        <target>بنفس الصلاحيات التي يتمتع بها.</target>
+      </trans-unit>
+      <trans-unit id="4yf9KYS" resname="Le Secrétaire Général :">
+        <source>Le Secrétaire Général :</source>
+        <target>الأمين العام:</target>
+      </trans-unit>
+      <trans-unit id="VNbJhN8" resname="Il assure l'application des statuts et du règlement. Il effectue l'envoi des convocations et">
+        <source>Il assure l'application des statuts et du règlement. Il effectue l'envoi des convocations et</source>
+        <target>يضمن تطبيق الأنظمة واللوائح. يرسل الاستدعاء و</target>
+      </trans-unit>
+      <trans-unit id=".oTq4EY" resname="la diffusion de l'ordre du jour pour les Assemblées Générales et les réunions. Il rédige les">
+        <source>la diffusion de l'ordre du jour pour les Assemblées Générales et les réunions. Il rédige les</source>
+        <target>نشر جدول أعمال الجمعيات العامة والاجتماعات. يكتب</target>
+      </trans-unit>
+      <trans-unit id="lZh6lgD" resname="procès-verbaux et signe éventuellement les correspondances de l'Association. Il a la garde">
+        <source>procès-verbaux et signe éventuellement les correspondances de l'Association. Il a la garde</source>
+        <target>محضر وربما يوقع على مراسلات الجمعية. لديه حضانة</target>
+      </trans-unit>
+      <trans-unit id="ABoGNJY" resname="des registres de l'Association.">
+        <source>des registres de l'Association.</source>
+        <target>سجلات الجمعية.</target>
+      </trans-unit>
+      <trans-unit id="1notviS" resname="Le Secrétaire Général Adjoint:">
+        <source>Le Secrétaire Général Adjoint:</source>
+        <target>نائب الأمين العام:</target>
+      </trans-unit>
+      <trans-unit id="9Cfzs1I" resname="Il seconde le Secrétaire Général dans l'accomplissement de sa mission et le remplace en cas">
+        <source>Il seconde le Secrétaire Général dans l'accomplissement de sa mission et le remplace en cas</source>
+        <target>يساعد الأمين العام في إنجاز مهمته ويحل محله في حال</target>
+      </trans-unit>
+      <trans-unit id="5b3KgTg" resname="d'absence ou d'empêchement.">
+        <source>d'absence ou d'empêchement.</source>
+        <target>الغياب أو العائق.</target>
+      </trans-unit>
+      <trans-unit id="o7t4COc" resname="Le Trésorier:">
+        <source>Le Trésorier:</source>
+        <target>امينة صندوق:</target>
+      </trans-unit>
+      <trans-unit id="DHbCakD" resname="Il a la garde des fonds de l'Association et des livres de compte. IL effectue les recettes">
+        <source>Il a la garde des fonds de l'Association et des livres de compte. IL effectue les recettes</source>
+        <target>لديه عهدة على أموال الجمعية ودفاتر حساباتها. يفعل الوصفات</target>
+      </trans-unit>
+      <trans-unit id="B4BUheO" resname="et les dépenses, recouvre les cotisations, donne quittance et reçu ; Il soumet à l'Assemblée">
+        <source>et les dépenses, recouvre les cotisations, donne quittance et reçu ; Il soumet à l'Assemblée</source>
+        <target>والمصروفات ، وتحصيل الاشتراكات ، وإبراء الذمة والاستلام ؛ يقدم إلى المجلس</target>
+      </trans-unit>
+      <trans-unit id="f7iaDo3" resname="Générale le rapport financier de chaque exercice et prépare le budget annuel. Il dépose dans">
+        <source>Générale le rapport financier de chaque exercice et prépare le budget annuel. Il dépose dans</source>
+        <target>عمومية التقرير المالي لكل سنة مالية وإعداد الميزانية السنوية. يودع في</target>
+      </trans-unit>
+      <trans-unit id="C7R_NaC" resname="les institutions choisies par le Bureau les deniers de l'Association et les gère">
+        <source>les institutions choisies par le Bureau les deniers de l'Association et les gère</source>
+        <target>المؤسسات التي يختارها المكتب أموال الجمعية ويديرها</target>
+      </trans-unit>
+      <trans-unit id="O_pr1Mv" resname="conformément aux Statuts de celle-ci.">
+        <source>conformément aux Statuts de celle-ci.</source>
+        <target>وفقا لنظامها الأساسي.</target>
+      </trans-unit>
+      <trans-unit id="OoOEElG" resname="Le Trésorier Adjoint:">
+        <source>Le Trésorier Adjoint:</source>
+        <target>نائب أمين الصندوق:</target>
+      </trans-unit>
+      <trans-unit id="z1t9zHC" resname="Il seconde le Trésorier dans sa tâche avec les mêmes pouvoirs et le remplace en cas">
+        <source>Il seconde le Trésorier dans sa tâche avec les mêmes pouvoirs et le remplace en cas</source>
+        <target>يساعد أمين الصندوق في مهمته بنفس الصلاحيات ويحل محله في حالة</target>
+      </trans-unit>
+      <trans-unit id="eGTkYB2" resname="Réunions">
+        <source>Réunions</source>
+        <target>الاجتماعات</target>
+      </trans-unit>
+      <trans-unit id="MUOZhOR" resname="Le Bureau est élu pour trois ans. Il se réunit tous les six mois au minimum, et chaque">
+        <source>Le Bureau est élu pour trois ans. Il se réunit tous les six mois au minimum, et chaque</source>
+        <target>يتم انتخاب المكتب لمدة ثلاث سنوات. يجتمع على الأقل كل ستة أشهر ، وكل</target>
+      </trans-unit>
+      <trans-unit id="qg8usS7" resname="fois qu'il est convoqué par son Président">
+        <source>fois qu'il est convoqué par son Président</source>
+        <target>استدعائها من قبل رئيسها
+        </target>
+      </trans-unit>
+      <trans-unit id="YqoiaEH" resname="La moitié plus un des membres présents du Comité Directeur sont nécessaires pour la validité:">
+        <source>La moitié plus un des membres présents du Comité Directeur sont nécessaires pour la validité:</source>
+        <target>نصف زائد واحد من الأعضاء الحاضرين في اللجنة التوجيهية ضروريون للصلاحية:</target>
+      </trans-unit>
+      <trans-unit id="qz9XwrY" resname="des délibérations. Les délibérations sont prises à la majorité des voix. A nombre égal de:">
+        <source>des délibérations. Les délibérations sont prises à la majorité des voix. A nombre égal de:</source>
+        <target>المداولات. تتخذ القرارات بأغلبية الأصوات. عدد متساوٍ من:</target>
+      </trans-unit>
+      <trans-unit id="3s41FTq" resname="voix, celle du Président compte double. Ces réunions sont constatées par des procès-verbaux:">
+        <source>voix, celle du Président compte double. Ces réunions sont constatées par des procès-verbaux:</source>
+        <target>التصويت ، حيث يحتسب صوت الرئيس مرتين. يتم تسجيل هذه الاجتماعات بالدقائق:</target>
+      </trans-unit>
+      <trans-unit id="8PdIzUf" resname="En cas de défection d'un ou de plusieurs membres du Bureau d'autres membres adhérents:">
+        <source>En cas de défection d'un ou de plusieurs membres du Bureau d'autres membres adhérents:</source>
+        <target>في حالة انشقاق عضو أو أكثر من أعضاء المكتب من أعضاء آخرين ملتزمين:</target>
+      </trans-unit>
+      <trans-unit id="F8DkwBa" resname="pourront les remplacer. Leur intégration au Bureau se fera par simple cooptation et sera:">
+        <source>pourront les remplacer. Leur intégration au Bureau se fera par simple cooptation et sera:</source>
+        <target>يمكن أن تحل محلها. سيتم دمجهم في المكتب عن طريق التعاون البسيط وسيكون:</target>
+      </trans-unit>
+      <trans-unit id="LolBvCL" resname="soumise à l'approbation de la prochaine Assemblée Générale:">
+        <source>soumise à l'approbation de la prochaine Assemblée Générale:</source>
+        <target>رهنا بموافقة الجمعية العمومية القادمة:</target>
+      </trans-unit>
+      <trans-unit id="yXtUIe_" resname="Le règlement intérieur">
+        <source>Le règlement intérieur</source>
+        <target>القواعد</target>
+      </trans-unit>
+      <trans-unit id="Kc0ZcCd" resname="L'adhésion aux présents Statuts emporte engagement de se conformer aux stipulations des">
+        <source>L'adhésion aux présents Statuts emporte engagement de se conformer aux stipulations des</source>
+        <target>الالتزام بهذا النظام الأساسي يعني الالتزام بالامتثال لشروط</target>
+      </trans-unit>
+      <trans-unit id="tpBCjK4" resname="présents statuts, ainsi qu'au règlement intérieur de la SPM.">
+        <source>présents statuts, ainsi qu'au règlement intérieur de la SPM.</source>
+        <target>الالتزام بهذا النظام الأساسي يعني الالتزام بالامتثال لشروط</target>
+      </trans-unit>
+      <trans-unit id="MG1LCge" resname="Le Conseil Consultatif">
+        <source>Le Conseil Consultatif</source>
+        <target>مجلس الشورى</target>
+      </trans-unit>
+      <trans-unit id="5SnLUXs" resname="Le Conseil Consultatif a un pouvoir consultatif : Il donne avis et émet toutes suggestions">
+        <source>Le Conseil Consultatif a un pouvoir consultatif : Il donne avis et émet toutes suggestions</source>
+        <target>لمجلس الشورى سلطة استشارية: فهو يعطي النصح ويقدم كل الاقتراحات</target>
+      </trans-unit>
+      <trans-unit id="Mpfe8Fd" resname="sur les questions qui lui sont soumises par le Président ou le Vice-président ou par le">
+        <source>sur les questions qui lui sont soumises par le Président ou le Vice-président ou par le</source>
+        <target>بشأن الأسئلة المقدمة إليها من قبل الرئيس أو نائب الرئيس أو من قبل</target>
+      </trans-unit>
+      <trans-unit id="bJu169b" resname="Bureau Exécutif en matière de politique générale de la Société et sur les grandes questions">
+        <source>Bureau Exécutif en matière de politique générale de la Société et sur les grandes questions</source>
+        <target>المجلس التنفيذي في شؤون السياسة العامة للشركة والقضايا الرئيسية</target>
+      </trans-unit>
+      <trans-unit id="xy5Gg91" resname="pédagogiques, stratégiques et financières la concernant.">
+        <source>pédagogiques, stratégiques et financières la concernant.</source>
+        <target>التربوية والاستراتيجية والمالية المتعلقة بها.</target>
+      </trans-unit>
+      <trans-unit id="vD.dA1d" resname="Il se compose des membres fondateurs et de 3 membres au moins du bureau sortant. Ces membres">
+        <source>Il se compose des membres fondateurs et de 3 membres au moins du bureau sortant. Ces membres</source>
+        <target>وهي مكونة من الأعضاء المؤسسين وما لا يقل عن 3 أعضاء من مجلس الإدارة المنتهية ولايته. هؤلاء الأعضاء</target>
+      </trans-unit>
+      <trans-unit id="ubHztz8" resname="sont élus à bulletin secret à chaque renouvellement du Bureau Exécutif. Un membre du Conseil">
+        <source>sont élus à bulletin secret à chaque renouvellement du Bureau Exécutif. Un membre du Conseil</source>
+        <target>يتم انتخابهم بالاقتراع السري عند كل تجديد للمجلس التنفيذي. عضو المجلس</target>
+      </trans-unit>
+      <trans-unit id="iRP.iTT" resname="Consultatif ne peut pas être simultanément membre du Conseil et membre du Bureau Exécutif.">
+        <source>Consultatif ne peut pas être simultanément membre du Conseil et membre du Bureau Exécutif.</source>
+        <target>لا يمكن أن يكون الاستشاري عضوًا في المجلس وعضوًا في المكتب التنفيذي في نفس الوقت.</target>
+      </trans-unit>
+      <trans-unit id="0amxSiE" resname="La durée des fonctions des membres du Conseil Consultatif est de deux années que le Bureau">
+        <source>La durée des fonctions des membres du Conseil Consultatif est de deux années que le Bureau</source>
+        <target>مدة عضوية أعضاء مجلس الشورى سنتان كمكتب</target>
+      </trans-unit>
+      <trans-unit id="h89SPtU" resname="Exécutif peut renouveler.">
+        <source>Exécutif peut renouveler.</source>
+        <target>يمكن تجديد التنفيذي.</target>
+      </trans-unit>
+      <trans-unit id="q0PKCf9" resname="Le Conseil Consultatif se réunit au moins une fois par an et à chaque fois qu'il est">
+        <source>Le Conseil Consultatif se réunit au moins une fois par an et à chaque fois qu'il est</source>
+        <target>يجتمع المجلس الاستشاري مرة واحدة على الأقل في السنة وفي أي وقت</target>
+      </trans-unit>
+      <trans-unit id="Tfj2I09" resname="convoqué par le Président de l'Association, qui assiste aux dites réunions du Conseil">
+        <source>convoqué par le Président de l'Association, qui assiste aux dites réunions du Conseil</source>
+        <target>بدعوة من رئيس الجمعية الذي يحضر اجتماعات المجلس المذكورة</target>
+      </trans-unit>
+      <trans-unit id="fTTaGGy" resname="Consultatif s'il y ait invité par le celui-ci. Peut y assisté également le Secrétaire">
+        <source>Consultatif s'il y ait invité par le celui-ci. Peut y assisté également le Secrétaire</source>
+        <target>استشاري إذا كان هناك بدعوة من هذا واحد. قد يحضر السكرتير أيضا</target>
+      </trans-unit>
+      <trans-unit id="rKm.LDj" resname="Général en vue d'apporter assistance aux travaux du Conseil. Ils ne participent pas aux">
+        <source>Général en vue d'apporter assistance aux travaux du Conseil. Ils ne participent pas aux</source>
+        <target>عام من أجل تقديم المساعدة لعمل المجلس. انهم لا يشاركون في</target>
+      </trans-unit>
+      <trans-unit id="uMXq8rx" resname="votes.">
+        <source>votes.</source>
+        <target>__votes.</target>
+      </trans-unit>
+      <trans-unit id="zBS.Q4M" resname="Le Conseil Consultatif veille au respect des orientations et objectifs fondamentaux de la">
+        <source>Le Conseil Consultatif veille au respect des orientations et objectifs fondamentaux de la</source>
+        <target>يضمن المجلس الاستشاري أن التوجهات والأهداف الأساسية للهيئة</target>
+      </trans-unit>
+      <trans-unit id="ghCVF.f" resname="SPM">
+        <source>SPM</source>
+        <target>SPM</target>
+      </trans-unit>
+      <trans-unit id="D30lO3d" resname="Il veille à l'équilibre des pouvoirs au sein de la SPM">
+        <source>Il veille à l'équilibre des pouvoirs au sein de la SPM</source>
+        <target>يضمن توازن القوى داخل SPM</target>
+      </trans-unit>
+      <trans-unit id="gF7bns3" resname="Il arbitre les divergences éventuelles au sein du Bureau Exécutif, et entre les membres de">
+        <source>Il arbitre les divergences éventuelles au sein du Bureau Exécutif, et entre les membres de</source>
+        <target>يحكم في الاختلافات المحتملة داخل المجلس التنفيذي ، وبين أعضاء</target>
+      </trans-unit>
+      <trans-unit id="t4RloyO" resname="la SPM">
+        <source>la SPM</source>
+        <target>SPM</target>
+      </trans-unit>
+      <trans-unit id="dz8d7EC" resname="Assemblées Générales">
+        <source>Assemblées Générales</source>
+        <target>الجمعيات العامة</target>
+      </trans-unit>
+      <trans-unit id="U8PBSV3" resname="L'Assemblée Générale de la Société Psychanalytique Marocaine comprend les Membres">
+        <source>L'Assemblée Générale de la Société Psychanalytique Marocaine comprend les Membres</source>
+        <target>تضم الجمعية العمومية للرابطة المغربية للتحليل النفسي الأعضاء</target>
+      </trans-unit>
+      <trans-unit id="E5xxtAM" resname="Adhérents. Pourront néanmoins participer aux délibérations à titre d'observateurs">
+        <source>Adhérents. Pourront néanmoins participer aux délibérations à titre d'observateurs</source>
+        <target>أعضاء. ومع ذلك يجوز لهم المشاركة في المداولات بصفة مراقب</target>
+      </trans-unit>
+      <trans-unit id="PYQlqcb" resname="les Membres Honoraires">
+        <source>les Membres Honoraires</source>
+        <target>الأعضاء الفخريون</target>
+      </trans-unit>
+      <trans-unit id="usgsDFm" resname="les Membres Bienfaiteurs">
+        <source>les Membres Bienfaiteurs</source>
+        <target>الأعضاء المستفيدون</target>
+      </trans-unit>
+      <trans-unit id="MJfOdzl" resname="les Membres Adhérents">
+        <source>les Membres Adhérents</source>
+        <target>الأعضاء المنتسبين</target>
+      </trans-unit>
+      <trans-unit id="RNhL0uu" resname="les Membres Associés">
+        <source>les Membres Associés</source>
+        <target>الأعضاء المنتسبين
+        </target>
+      </trans-unit>
+      <trans-unit id="bW9Ubaf" resname="L'Assemblée Générale Ordinaires se réunit une fois par an à la fin des journées annuelles ;">
+        <source>L'Assemblée Générale Ordinaires se réunit une fois par an à la fin des journées annuelles ;</source>
+        <target>تجتمع الجمعية العامة العادية مرة واحدة في السنة في نهاية الأيام السنوية ؛</target>
+      </trans-unit>
+      <trans-unit id="5uj3yOx" resname="Son ordre du jour sera établi par le Bureau mais il pourra être complété par quelques points">
+        <source>Son ordre du jour sera établi par le Bureau mais il pourra être complété par quelques points</source>
+        <target>وسيقوم المكتب بوضع جدول أعمالها ولكن يمكن استكماله ببضع نقاط.</target>
+      </trans-unit>
+      <trans-unit id=".YqgTvA" resname="rajoutés par les membres de l'Assemblée. L'Assemblée Générale entend les rapports sur le">
+        <source>rajoutés par les membres de l'Assemblée. L'Assemblée Générale entend les rapports sur le</source>
+        <target>أضيفت من قبل أعضاء الجمعية. تستمع الجمعية العامة إلى تقارير حول</target>
+      </trans-unit>
+      <trans-unit id="q6oFUbH" resname="fonctionnement de la Société de Psychanalytique Marocaine et sur sa situation financière.">
+        <source>fonctionnement de la Société de Psychanalytique Marocaine et sur sa situation financière.</source>
+        <target>سير عمل الرابطة المغربية للتحليل النفسي ووضعها المالي.</target>
+      </trans-unit>
+      <trans-unit id="0BBPikg" resname="Elle approuve les comptes de l'exercice clos, vote le budget de l'exercice suivant, délibère">
+        <source>Elle approuve les comptes de l'exercice clos, vote le budget de l'exercice suivant, délibère</source>
+        <target>يصادق على حسابات السنة المالية المنتهية ، ويصوت على موازنة السنة المالية التالية ، ويتداول</target>
+      </trans-unit>
+      <trans-unit id="ZTO9uDz" resname="sur les questions mises à l'ordre du jour. Elle procède à l'élection du nouveau Bureau tous">
+        <source>sur les questions mises à l'ordre du jour. Elle procède à l'élection du nouveau Bureau tous</source>
+        <target>حول القضايا المطروحة على جدول الأعمال. يشرع في انتخاب المكتب الجديد كل</target>
+      </trans-unit>
+      <trans-unit id="r_hYnC0" resname="les trois ans.">
+        <source>les trois ans.</source>
+        <target>كل ثلاث سنوات.</target>
+      </trans-unit>
+      <trans-unit id="6wmnd41" resname="L'Assemblée Générale Ordinaire procède également à l'examen, à l'adoption ou au rejet du">
+        <source>L'Assemblée Générale Ordinaire procède également à l'examen, à l'adoption ou au rejet du</source>
+        <target>تقوم الجمعية العامة العادية أيضًا بفحص أو اعتماد أو رفض</target>
+      </trans-unit>
+      <trans-unit id="EG_3j1A" resname="projet de règlement intérieur qui lui aura été soumis.">
+        <source>projet de règlement intérieur qui lui aura été soumis.</source>
+        <target>مشروع اللوائح الداخلية التي سيتم عرضها عليها.</target>
+      </trans-unit>
+      <trans-unit id="88k9sub" resname="Les délibérations sont prises à la majorité des voix des membres présents. Il est dressé">
+        <source>Les délibérations sont prises à la majorité des voix des membres présents. Il est dressé</source>
+        <target>المداولات بأغلبية أصوات الأعضاء الحاضرين. تم تدريبه</target>
+      </trans-unit>
+      <trans-unit id="zsGJJyN" resname="procès-verbal de chaque réunion de l'Assemblée Générale.">
+        <source>procès-verbal de chaque réunion de l'Assemblée Générale.</source>
+        <target>محضر كل اجتماع للجمعية العمومية.</target>
+      </trans-unit>
+      <trans-unit id="NsrfhAl" resname="Une Assemblée Générale Extraordinaire peut être convoquée si nécessaire par le Président ou">
+        <source>Une Assemblée Générale Extraordinaire peut être convoquée si nécessaire par le Président ou</source>
+        <target>يجوز عقد جمعية عامة غير عادية إذا لزم الأمر من قبل الرئيس أو</target>
+      </trans-unit>
+      <trans-unit id="xr4D1GX" resname="par les 2/3 des Membres du Bureau ou encore par les 2/3 de ses membres à des fins de">
+        <source>par les 2/3 des Membres du Bureau ou encore par les 2/3 de ses membres à des fins de</source>
+        <target>2/3 من أعضاء المكتب أو 2/3 من أعضائه لأغراض</target>
+      </trans-unit>
+      <trans-unit id="eoYdkWc" resname="modification des Statuts de l'Association ou de sa dissolution">
+        <source>modification des Statuts de l'Association ou de sa dissolution</source>
+        <target>تعديل النظام الأساسي للجمعية أو حلها</target>
+      </trans-unit>
+      <trans-unit id="70pfQYU" resname="RESSOURCES DE LA SPM">
+        <source>RESSOURCES DE LA SPM</source>
+        <target>موارد SPM</target>
+      </trans-unit>
+      <trans-unit id="Qyr8OpZ" resname="La Société Psychanalytique Marocaine pourra posséder tous les biens nécessaires au but">
+        <source>La Société Psychanalytique Marocaine pourra posséder tous les biens nécessaires au but</source>
+        <target>قد تمتلك الرابطة المغربية للتحليل النفسي جميع السلع الضرورية لتحقيق الهدف</target>
+      </trans-unit>
+      <trans-unit id="sgJEgP_" resname="qu'elle poursuit et à l'œuvre qu'elle se propose d'accomplir, dans les limites fixées par la">
+        <source>qu'elle poursuit et à l'œuvre qu'elle se propose d'accomplir, dans les limites fixées par la</source>
+        <target>التي تسعى إلى تحقيقها وإلى العمل الذي تقترح إنجازه ، ضمن الحدود التي وضعها</target>
+      </trans-unit>
+      <trans-unit id="6xZ.c8y" resname="Loi.">
+        <source>Loi.</source>
+        <target>قانون.</target>
+      </trans-unit>
+      <trans-unit id="lJANq26" resname="Les ressources annuelles de l'Association se composent :">
+        <source>Les ressources annuelles de l'Association se composent :</source>
+        <target>تتكون الموارد السنوية للجمعية من:</target>
+      </trans-unit>
+      <trans-unit id="LS5Cbgw" resname="des cotisations et souscriptions de ses membres">
+        <source>des cotisations et souscriptions de ses membres</source>
+        <target>رسوم العضوية والاشتراكات</target>
+      </trans-unit>
+      <trans-unit id="3DZPH0z" resname="des subventions qui pourront lui être accordées">
+        <source>des subventions qui pourront lui être accordées</source>
+        <target>المنح التي قد تُمنح لها</target>
+      </trans-unit>
+      <trans-unit id="ylLsAi8" resname="des intérêts de revenus des biens non compris dans le fonds de réserve">
+        <source>des intérêts de revenus des biens non compris dans le fonds de réserve</source>
+        <target>الفائدة على الدخل من الممتلكات غير المدرجة في الصندوق الاحتياطي</target>
+      </trans-unit>
+      <trans-unit id="WMdtSeh" resname="des dons et legs autorisés">
+        <source>des dons et legs autorisés</source>
+        <target>الهبات والوصايا المصرح بها</target>
+      </trans-unit>
+      <trans-unit id="QTvj1UD" resname="des recettes de toute manifestation organisée par l'Association, dans le cadre de la">
+        <source>des recettes de toute manifestation organisée par l'Association, dans le cadre de la</source>
+        <target>الإيرادات من أي حدث تنظمه الجمعية ، في إطار</target>
+      </trans-unit>
+      <trans-unit id="_g7FjXI" resname="législation en vigueur.">
+        <source>législation en vigueur.</source>
+        <target>تشريع.</target>
+      </trans-unit>
+      <trans-unit id="GUSgvcV" resname="Les dépenses de la Société Marocaine de Psychanalyse sont ordonnées par le Président après">
+        <source>Les dépenses de la Société Marocaine de Psychanalyse sont ordonnées par le Président après</source>
+        <target>يتم تحديد نفقات رابطة التحليل النفسي المغربية من قبل رئيس الجمهورية بعد ذلك</target>
+      </trans-unit>
+      <trans-unit id="EJqGDy8" resname="accord du Bureau.">
+        <source>accord du Bureau.</source>
+        <target>اتفاق المكتب.</target>
+      </trans-unit>
+      <trans-unit id="bN_m6HR" resname="Il est tenu au jour le jour une comptabilité des deniers par recettes et par dépenses, et">
+        <source>Il est tenu au jour le jour une comptabilité des deniers par recettes et par dépenses, et</source>
+        <target>يتم الاحتفاظ بالمحاسبة اليومية للأموال حسب الإيرادات والنفقات ، و</target>
+      </trans-unit>
+      <trans-unit id="JRiV8Qa" resname="s'il y a lieu une comptabilité matières.">
+        <source>s'il y a lieu une comptabilité matières.</source>
+        <target>عند الاقتضاء ، حسابات الأسهم.</target>
+      </trans-unit>
+      <trans-unit id=".cF88PK" resname="Les ordres de retrait de fonds sont signés conjointement par le président et le trésorier">
+        <source>Les ordres de retrait de fonds sont signés conjointement par le président et le trésorier</source>
+        <target>يتم التوقيع على أوامر سحب الأموال بشكل مشترك من قبل الرئيس وأمين الصندوق</target>
+      </trans-unit>
+      <trans-unit id="7kut2sZ" resname="de l'Association ou à défaut le vice président et le trésorier adjoint.">
+        <source>de l'Association ou à défaut le vice président et le trésorier adjoint.</source>
+        <target>للجمعية أو إذا تعذر ذلك نائب الرئيس ومساعد أمين الصندوق.</target>
+      </trans-unit>
+      <trans-unit id="iS4_pm_" resname="Les fonctions de membres du Comité Directeur sont gratuites. Toutefois ils peuvent">
+        <source>Les fonctions de membres du Comité Directeur sont gratuites. Toutefois ils peuvent</source>
+        <target>وظائف أعضاء اللجنة التوجيهية مجانية. ومع ذلك يمكنهم
+        </target>
+      </trans-unit>
+      <trans-unit id="DW3SWTc" resname="bénéficier du remboursement de leurs frais de déplacement ou de toute autre dépense">
+        <source>bénéficier du remboursement de leurs frais de déplacement ou de toute autre dépense</source>
+        <target>الاستفادة من سداد نفقات سفرهم أو أي نفقات أخرى</target>
+      </trans-unit>
+      <trans-unit id="eYka5h_" resname="effectuée pour le compte de l'Association.">
+        <source>effectuée pour le compte de l'Association.</source>
+        <target>نفذت نيابة عن الجمعية.</target>
+      </trans-unit>
+      <trans-unit id="Xi8Z.a7" resname="MODIFICATIONS DES STATUTS ET DISSOLUTION">
+        <source>MODIFICATIONS DES STATUTS ET DISSOLUTION</source>
+        <target>تعديلات على النظام الأساسي وفض الحل</target>
+      </trans-unit>
+      <trans-unit id="vM0k4oe" resname="Les Statuts ne peuvent être modifiés que par l'Assemblée Générale Extraordinaire avec">
+        <source>Les Statuts ne peuvent être modifiés que par l'Assemblée Générale Extraordinaire avec</source>
+        <target>لا يمكن تعديل النظام الأساسي إلا من قبل الجمعية العامة غير العادية مع</target>
+      </trans-unit>
+      <trans-unit id="kSW8giB" resname="l'approbation des 2/3 des membres. Au cas où le quorum n'est pas atteint, une deuxième">
+        <source>l'approbation des 2/3 des membres. Au cas où le quorum n'est pas atteint, une deuxième</source>
+        <target>موافقة ثلثي الأعضاء. إذا لم يتم الوصول إلى النصاب ، ثانية</target>
+      </trans-unit>
+      <trans-unit id="A_J8aei" resname="Assemblée Générale est convoquée au moins 15 jours avant par lettre recommandée. Les">
+        <source>Assemblée Générale est convoquée au moins 15 jours avant par lettre recommandée. Les</source>
+        <target>تنعقد الجمعية العامة قبل 15 يومًا على الأقل من خلال خطاب مسجل. ال</target>
+      </trans-unit>
+      <trans-unit id="l9Iopnv" resname="décisions sont alors prises à la majorité simple des présents.">
+        <source>décisions sont alors prises à la majorité simple des présents.</source>
+        <target>ثم تتخذ القرارات بأغلبية بسيطة من الحاضرين.</target>
+      </trans-unit>
+      <trans-unit id="No8eb7K" resname="La dissolution de la Société Marocaine de Psychanalyse ne pourra être prononcée qu'en">
+        <source>La dissolution de la Société Marocaine de Psychanalyse ne pourra être prononcée qu'en</source>
+        <target>يمكن فقط إعلان حل الرابطة المغربية للتحليل النفسي</target>
+      </trans-unit>
+      <trans-unit id="zaMEgYt" resname="Assemblée Générale Extraordinaire, convoquée à cet effet un mois à l'avance, et la">
+        <source>Assemblée Générale Extraordinaire, convoquée à cet effet un mois à l'avance, et la</source>
+        <target>الجمعية العامة غير العادية المنعقدة لهذا الغرض قبل شهر واحد ، و</target>
+      </trans-unit>
+      <trans-unit id="rlHpJdI" resname="délibération doit être prise à la majorité des deux tiers des membres présents">
+        <source>délibération doit être prise à la majorité des deux tiers des membres présents</source>
+        <target>يجب أن تتم المداولة بأغلبية ثلثي الأعضاء الحاضرين</target>
+      </trans-unit>
+      <trans-unit id="KeUeiWA" resname="En cas de dissolution, l'Assemblée Générale désigne un ou plusieurs commissaires chargés de">
+        <source>En cas de dissolution, l'Assemblée Générale désigne un ou plusieurs commissaires chargés de</source>
+        <target>في حالة الحل ، تعين الجمعية العمومية مدقق حسابات أو أكثر</target>
+      </trans-unit>
+      <trans-unit id="G3hlA29" resname="la liquidation des biens de l'œuvre.">
+        <source>la liquidation des biens de l'œuvre.</source>
+        <target>تصفية أصول العمل.</target>
+      </trans-unit>
+      <trans-unit id="Gzujd.2" resname="Elle attribue l'actif net à une Association poursuivant le même objet ou à défaut à une">
+        <source>Elle attribue l'actif net à une Association poursuivant le même objet ou à défaut à une</source>
+        <target>يخصص صافي الأصول لجمعية تسعى لنفس الغرض أو تفشل في ذلك إلى</target>
+      </trans-unit>
+      <trans-unit id="bMkET.5" resname="oeuvre de bienfaisance.">
+        <source>oeuvre de bienfaisance.</source>
+        <target>عمل خيري.</target>
+      </trans-unit>
+      <trans-unit id="TeMgXHM" resname="Bureau de SPM Maroc">
+        <source>Bureau de SPM Maroc</source>
+        <target>مكتب المغرب SPM</target>
+      </trans-unit>
+      <trans-unit id="M4LTQTs" resname="Elu le 30/11/2019">
+        <source>Elu le 30/11/2019</source>
+        <target>انتخب في 30/11/2019 م</target>
+      </trans-unit>
+      <trans-unit id="ICnjGFy" resname="Président">
+        <source>Président</source>
+        <target>رئيس</target>
+      </trans-unit>
+      <trans-unit id="fuzEx4O" resname="Vice-Présidente">
+        <source>Vice-Présidente</source>
+        <target>نائب الرئيس</target>
+      </trans-unit>
+      <trans-unit id="Q11U26." resname="Secrétaire Général Adjoint">
+        <source>Secrétaire Général Adjoint</source>
+        <target>نائب الامين العام
+        </target>
+      </trans-unit>
+      <trans-unit id="NNoaUM7" resname="Secrétaire Générale">
+        <source>Secrétaire Générale</source>
+        <target>الأمين العام</target>
+      </trans-unit>
+      <trans-unit id="cndWj2A" resname="Trésorier">
+        <source>Trésorier</source>
+        <target>امينة صندوق</target>
+      </trans-unit>
+      <trans-unit id="P85fCaR" resname="Présidente">
+        <source>Présidente</source>
+        <target>رئيس</target>
+      </trans-unit>
+      <trans-unit id="nTjbcE4" resname="1er Vice-Président">
+        <source>1er Vice-Président</source>
+        <target>النائب الأول للرئيس</target>
+      </trans-unit>
+      <trans-unit id="scXkf2w" resname="2ème Vice-Président">
+        <source>2ème Vice-Président</source>
+        <target>النائب الثاني للرئيس
+        </target>
+      </trans-unit>
+      <trans-unit id="66kjmde" resname="Assesseur">
+        <source>Assesseur</source>
+        <target>مساعد قاضي</target>
+      </trans-unit>
+      <trans-unit id="7ibuInE" resname="Le bureau fondateur de la Société Psychanalytique Marocaine S.P.M :">
+        <source>Le bureau fondateur de la Société Psychanalytique Marocaine S.P.M :</source>
+        <target>المكتب التأسيسي للرابطة التحليل النفسي المغربية S.P.M:</target>
+      </trans-unit>
+      <trans-unit id="sdmnPDg" resname="Vice Président">
+        <source>Vice Président</source>
+        <target>_نائب الرئيس</target>
+      </trans-unit>
+      <trans-unit id="6LGuG2I" resname="Secrétaire Général">
+        <source>Secrétaire Général</source>
+        <target>السكرتير العام</target>
+      </trans-unit>
+      <trans-unit id="F59pLzJ" resname="Général Adjoint">
+        <source>Général Adjoint</source>
+        <target>النائب العام</target>
+      </trans-unit>
+      <trans-unit id="10DHCGs" resname="Trésorier Adjoint">
+        <source>Trésorier Adjoint</source>
+        <target>أمين الصندوق المساعد</target>
+      </trans-unit>
+      <trans-unit id="yliyHOm" resname="Le bureau de l'exercice du 2011 au 07/12/2013 :">
+        <source>Le bureau de l'exercice du 2011 au 07/12/2013 :</source>
+        <target>المكتب للسنة المالية 2011-12 / 07/2013</target>
+      </trans-unit>
+      <trans-unit id="V38saSK" resname="Vice-Président">
+        <source>Vice-Président</source>
+        <target>نائب الرئيس</target>
+      </trans-unit>
+      <trans-unit id="vmnFXJC" resname="Membres Associés">
+        <source>Membres Associés</source>
+        <target>الأعضاء المنتسبين</target>
+      </trans-unit>
+
+
+
+      <trans-unit id="vmnFXJC299" resname="Membres Associés21">
+        <source>ARTICLE</source>
+        <target>البند</target>
+      </trans-unit>
+
+
+      <trans-unit id="vmnFXJC29AZZ" resname="Membres Associés21">
+        <source>conformément</source>
+        <target>وفقا</target>
+      </trans-unit>
+
+      <trans-unit id="vmnFXJC29AERR" resname="Membres Associés21">
+        <source>aux dispositions</source>
+        <target>لأحكام</target>
+      </trans-unit>
+      <trans-unit id="vmnFXJC2GGDD99" resname="Membres Associés21">
+        <source>du dahir</source>
+        <target>الظهير الشريف</target>
+      </trans-unit>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      <trans-unit id="vmnFXJCHHHHD9qqs" resname="Membres Associés21">
+        <source>Nadia JAMAI</source>
+        <target>نادية جامعي</target>
+      </trans-unit>
+
+      <trans-unit id="vmnFXDHHDqdd" resname="Membres Associés21">
+        <source>201, rue Mostapha Maani - Casablanca</source>
+        <target> 201 شارع مصطفى المعاني - الدار البيضاء</target>
+      </trans-unit>
+
+
+
+      <trans-unit id="vmnFXJC2GGDDDDDd" resname="Membres Associés21">
+        <source>Tél :0522 221873</source>
+        <target> هاتف:  0522221873</target>
+      </trans-unit>
+
+      <trans-unit id="vmnFXJCHHGDD99sohdd" resname="Membres Associés21">
+        <source>e-mail : nadia.jamai@live.fr</source>
+        <target>البريد الإلكتروني: nadia.jamai@live.fr</target>
+      </trans-unit>
+
+
+
+
+
+
+      <trans-unit id="vmnFXJFFF99qqs" resname="Membres Associés21">
+        <source>Dr Ahmed Farid MERINI</source>
+        <target>الدكتور احمد فريد المريني</target>
+      </trans-unit>
+
+      <trans-unit id="vQGGssqdd" resname="Membres Associés21">
+        <source>25, Av Atlas, Agdal - Rabat</source>
+        <target>25 شارع أف أطلس أكدال الرباط
+        </target>
+      </trans-unit>
+
+
+
+      <trans-unit id="vmQHH99ssqdd" resname="Membres Associés21">
+        <source>Tél et Fax : 0537 675524</source>
+        <target> هاتف وفاكس: 0537675524
+        </target>
+      </trans-unit>
+
+      <trans-unit id="vmnFXJCQHQHohdd" resname="Membres Associés21">
+        <source>e-mail : merinif@yahoo.fr</source>
+        <target>البريد الإلكتروني: merinif@yahoo.fr
+        </target>
+      </trans-unit>
+
+      <trans-unit id="vmnFXJC2WSFWD99sohdd" resname="Membres Associés21">
+        <source>Abdellah Ouardini</source>
+        <target>عبد الله ورديني
+        </target>
+      </trans-unit>
+
+
+
+      <trans-unit id="vmnFXJC2Y55qs" resname="Membres Associés21">
+        <source>Mohamed JAMAI</source>
+        <target> محمد جامعي</target>
+      </trans-unit>
+
+      <trans-unit id="vmnFXJC2DHSQ4D99ssqdd" resname="Membres Associés21">
+        <source>201, rue Mostapha Maani - Casablanca</source>
+        <target>201 شارع مصطفى المعاني - الدار البيضاء
+        </target>
+      </trans-unit>
+
+
+
+      <trans-unit id="vmnFX3GDD99ssqdd" resname="Membres Associés21">
+        <source>Tél :0522 27578</source>
+        <target> الهاتف: 052227578
+        </target>
+      </trans-unit>
+
+      <trans-unit id="vmn3399sohdd" resname="Membres Associés21">
+        <source>e-mail : m3.jamai@yahoo.com</source>
+        <target>البريد الإلكتروني: m3.jamai@yahoo.com
+
+        </target>
+      </trans-unit>
+
+
+
+      <trans-unit id="v3GGDD99qqs" resname="Membres Associés21">
+        <source>Amal BOUHMIDA-BISES</source>
+        <target> أمل بوحميدة بيسيس
+        </target>
+      </trans-unit>
+
+      <trans-unit id="vmnFXJC2GGDD99ssqdd" resname="Membres Associés21">
+        <source>Résidence Nesrat, 12 Lot El Malid, Maarif - Casablanca</source>
+        <target>12 لوط المولد ، المعارف - الدار البيضاء 201سكن نسرات ،
+        </target>
+      </trans-unit>
+
+
+
+      <trans-unit id="vmnFXJC2GHHDssqdd" resname="Membres Associés21">
+        <source>Tél : 05-37-20-22-13</source>
+        <target>هاتف: 13-22-20-37-05
+        </target>
+      </trans-unit>
+
+      <trans-unit id="vmnFDGJDD99sohdd" resname="Membres Associés21">
+        <source>e-mail : amal_bouhmida@hotmail.com </source>
+        <target>البريد الإلكتروني: amal_bouhmida@hotmail.com
+        </target>
+      </trans-unit>
+
+
+      <trans-unit id="vmnFXJDDDGDD99qqs" resname="Membres Associés21">
+        <source>Mohamed JAMAI
+        </source>
+        <target> محمد جامعي
+
+        </target>
+      </trans-unit>
+
+      <trans-unit id="vmnFXJC2GGFJFd" resname="Membres Associés21">
+        <source>201, rue Mostapha Maani - Casablanca
+        </source>
+        <target>201 شارع مصطفى المعاني - الدار البيضاء
+
+        </target>
+      </trans-unit>
+
+
+
+      <trans-unit id="vmnFXJC2GGHFHFDssqdd" resname="Membres Associés21">
+        <source>Tél :0522 27578
+        </source>
+        <target>الهاتف: 052227578
+
+        </target>
+      </trans-unit>
+
+      <trans-unit id="vmnFXJC2GGDD99454Gdd" resname="Membres Associés21">
+        <source>e-mail : m3.jamai@yahoo.com</source>
+        <target>البريد الإلكتروني: m3.jamai@yahoo.com
+
+        </target>
+      </trans-unit>
+
+
+
+    </body>
+  </file>
+</xliff>

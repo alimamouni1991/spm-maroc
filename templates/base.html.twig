@@ -28,41 +28,80 @@
         <link href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-tagsinput/0.8.0/bootstrap-tagsinput-typeahead.css"
               rel="stylesheet" type="text/css"/>
         <link href="https://fonts.googleapis.com/css?family=Righteous&display=swap" rel="stylesheet">
+
     {% endblock %}
     <style>
-
         .bootstrap-tagsinput .tag {
             background-color: #007bff;
             padding: 3px;
             border-radius: 3px;
         }
-
         .user {
             font-family: 'Righteous', cursive;
         }
-
         .badge-light {
             font-family: 'Fredoka One', cursive;
         }
-
-
         @media (max-width: 640px) {
             .rowform {
                 margin: auto;
             }
-
             .news {
                 width: 100%;
             }
         }
+        @media (max-width: 640px) {
+            .video {
+                position: relative;
+                top: 18em;
+            }
+        }
+
+/*
+
+        @media screen and (max-width: 768px)
+            .nav-text {
+                color: #fff;
+                display: inline-block;
+                margin-right: 0;
+                width: auto;
+                position: fixed;
+                top: 0;
+                left: 0;
+                background: none repeat scroll 0 0 #1c3849;
+                height: 60px;
+                width: 60px;
+                text-align: center;
+                line-height: 60px;
+                z-index: 50;
+                padding-top: 15px;
+            }
+
+            @media screen and (max-width: 768px)
+            nav {
+                padding: 10px 0;
+                height: 60px;
+            }
+
+            @media screen and (max-width: 768px)
+            nav {
+                padding: 10px 0;
+                height: 60px;
+            }
+            @media screen and (max-width: 768px)
+            header.position-absolute {
+                background: #fff none repeat scroll 0 0;
+                position: relative;
+            }*/
 
 
     </style>
 </head>
 <body>
+{#background-transparent background-transparent-hightlight full-width sticky#}
 <nav class="navbar navbar-expand-lg navbar-dark bg-white fixed-top">
     <div class="container">
-        <img class="logo-dark" src="../assets/img/logo_spm.png" alt="" style="vertical-align: middle !important;
+        <img class="logo-dark" src="{{ asset('logo_spm.png') }}" alt="" style="vertical-align: middle !important;
     border-style: none !important;">
         <div class="collapse navbar-collapse" id="navbarResponsive">
             <ul class="navbar-nav ml-auto">
@@ -78,52 +117,38 @@
                 </li>
                 {% if is_granted('ROLE_USER') %}
                     <li class="nav-item">
-                        <a class="nav-link" href="{{ path('post_create') }}" style="font-size: 22px; color: black ;font-family: Impact">{{ 'Exprimez vous'|trans }}</a>
+                        <a class="nav-link" href="{{ path('post_create') }}" style="font-size: 20px; color: black ;font-family: Impact">{{ 'Exprimez vous'|trans }}</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="{{ path('app_logout') }}" style="font-size: 22px; color: black ;font-family: Impact">{{'Déconnexion'|trans}}</a>
+                        <a class="nav-link" href="{{ path('app_logout') }}" style="font-size: 20px; color: black ;font-family: Impact">{{'Déconnexion'|trans}}</a>
                     </li>
                 {% else %}
                     <li class="nav-item">
-                        <a class="nav-link" href="{{ path('security_login') }}" style="font-size: 22px; color: black ;font-family: Impact">
+                        <a class="nav-link" href="{{ path('security_login') }}" style="font-size: 20px; color: black ;font-family: Impact">
                             {{ 'Connexion'|trans }}</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="{{ path('register') }}" style="font-size: 22px; color: black ;font-family: Impact">{{'Créer un compte'|trans}}</a>
+                        <a class="nav-link" href="{{ path('register') }}" style="font-size: 20px; color: black ;font-family: Impact">{{'Créer un compte'|trans}}</a>
                     </li>
                 {% endif %}
                 {% if is_granted('ROLE_ADMIN') %}
                     <li class="nav-item">
-                        <a class="nav-link" href="{{ path('admin') }}" style="font-size: 22px; color: black ;font-family: Impact">{{ 'Gestion des Utilisateurs'|trans }}</a>
+                        <a class="nav-link" href="{{ path('admin') }}" style="font-size: 20px; color: black ;font-family: Impact">{{ 'Gestion des Utilisateurs'|trans }}</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="{{ path('admin_posts_index') }}" style="font-size: 22px; color: black ;font-family: Impact">{{ 'Gestion des Annonces'|trans }}</a>
+                        <a class="nav-link" href="{{ path('admin_posts_index') }}" style="font-size: 20px; color: black ;font-family: Impact">{{ 'Gestion des Annonces'|trans }}</a>
                     </li>
 
                 {% endif %}
-                <li class="dropdown">
-                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">{% if app.request.locale == 'fr' %}Russian{% else %}English{% endif %} <span class="caret"></span></a>
-                    <ul class="dropdown-menu">
-
-                        {# Check if there is a route and some parameters in the request #}
-                        {% if app.request.get('_route') is not empty and app.request.get('_route_params') is not null %}
-
-                            {# English #}
-                            <a href="{{ path(app.request.get('_route'), app.request.get('_route_params')|merge({'_locale': 'en'})) }}">English</a>
-                            {# Russian #}
-                            <a href="{{ path(app.request.get('_route'), app.request.get('_route_params')|merge({'_locale': 'fr'})) }}">Russian</a>
-
-                            {# If there is no route in the request, redirect to the homepage #}
-                        {% else %}
-
-                            {# English #}
-                            <a href="{{ path('homepage', {'_locale': 'en'}) }}">EN</a>
-                            {# Russian #}
-                            <a href="{{ path('homepage', {'_locale': 'fr'}) }}">FR</a>
-
-                        {% endif %}
-                    </ul>
-                </li>
+            </ul>
+            <ul class="navbar-nav ml-auto">
+                {%  for locale in locales if locale != app.request.locale %}
+                    <li class="nav-item ">
+                        <a class="nav-link" href="{{ path('change-locale', {'locale': locale}) }}" style="font-size: 22px; color: black ;font-family: Impact">
+                            <img class="logo-dark" src="{{ asset( '../assets/img/' ~ locale ~ '.jpg') }}" alt="{{ locale }}" style=" width: 1.5em; height: 1em">
+                        </a>
+                    </li>
+                {% endfor %}
             </ul>
         </div>
     </div>
