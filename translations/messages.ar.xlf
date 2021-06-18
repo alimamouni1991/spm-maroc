@@ -1049,8 +1049,8 @@
         <source>Assesseur</source>
         <target>مساعد قاضي</target>
       </trans-unit>
-      <trans-unit id="7ibuInE" resname="Le bureau fondateur de la Société Psychanalytique Marocaine S.P.M :">
-        <source>Le bureau fondateur de la Société Psychanalytique Marocaine S.P.M :</source>
+      <trans-unit id="7ibuInE" resname="Le bureau fondateur de la Société Psychanalytique Marocaine S.P.M ">
+        <source>Le bureau fondateur de la Société Psychanalytique Marocaine S.P.M </source>
         <target>المكتب التأسيسي للرابطة التحليل النفسي المغربية S.P.M:</target>
       </trans-unit>
       <trans-unit id="sdmnPDg" resname="Vice Président">
@@ -1119,24 +1119,24 @@
 
 
 
-      <trans-unit id="vmnFXJCHHHHD9qqs" resname="Membres Associés21">
+      <trans-unit id="vmnFXJCHHHHD9qqs" resname="Nadia JAMAI">
         <source>Nadia JAMAI</source>
         <target>نادية جامعي</target>
       </trans-unit>
 
-      <trans-unit id="vmnFXDHHDqdd" resname="Membres Associés21">
+      <trans-unit id="vmnFXDHHDqdd" resname="201, rue Mostapha Maani - Casablanca">
         <source>201, rue Mostapha Maani - Casablanca</source>
         <target> 201 شارع مصطفى المعاني - الدار البيضاء</target>
       </trans-unit>
 
 
 
-      <trans-unit id="vmnFXJC2GGDDDDDd" resname="Membres Associés21">
+      <trans-unit id="vmnFXJC2GGDDDDDd" resname="Tél :0522 221873">
         <source>Tél :0522 221873</source>
         <target> هاتف:  0522221873</target>
       </trans-unit>
 
-      <trans-unit id="vmnFXJCHHGDD99sohdd" resname="Membres Associés21">
+      <trans-unit id="vmnFXJCHHGDD99sohdd" resname="e-mail : nadia.jamai@live.fr">
         <source>e-mail : nadia.jamai@live.fr</source>
         <target>البريد الإلكتروني: nadia.jamai@live.fr</target>
       </trans-unit>
@@ -1146,12 +1146,12 @@
 
 
 
-      <trans-unit id="vmnFXJFFF99qqs" resname="Membres Associés21">
+      <trans-unit id="vmnFXJFFF99qqs" resname="Dr Ahmed Farid MERINI">
         <source>Dr Ahmed Farid MERINI</source>
         <target>الدكتور احمد فريد المريني</target>
       </trans-unit>
 
-      <trans-unit id="vQGGssqdd" resname="Membres Associés21">
+      <trans-unit id="vQGGssqdd" resname="25, Av Atlas, Agdal - Rabat">
         <source>25, Av Atlas, Agdal - Rabat</source>
         <target>25 شارع أف أطلس أكدال الرباط
         </target>
@@ -1159,19 +1159,19 @@
 
 
 
-      <trans-unit id="vmQHH99ssqdd" resname="Membres Associés21">
+      <trans-unit id="vmQHH99ssqdd" resname="Tél et Fax : 0537 675524">
         <source>Tél et Fax : 0537 675524</source>
         <target> هاتف وفاكس: 0537675524
         </target>
       </trans-unit>
 
-      <trans-unit id="vmnFXJCQHQHohdd" resname="Membres Associés21">
+      <trans-unit id="vmnFXJCQHQHohdd" resname="e-mail : merinif@yahoo.fr">
         <source>e-mail : merinif@yahoo.fr</source>
         <target>البريد الإلكتروني: merinif@yahoo.fr
         </target>
       </trans-unit>
 
-      <trans-unit id="vmnFXJC2WSFWD99sohdd" resname="Membres Associés21">
+      <trans-unit id="vmnFXJC2WSFWD99sohdd" resname="Abdellah Ouardini">
         <source>Abdellah Ouardini</source>
         <target>عبد الله ورديني
         </target>
@@ -1179,12 +1179,12 @@
 
 
 
-      <trans-unit id="vmnFXJC2Y55qs" resname="Membres Associés21">
+      <trans-unit id="vmnFXJC2Y55qs" resname="Mohamed JAMAI">
         <source>Mohamed JAMAI</source>
         <target> محمد جامعي</target>
       </trans-unit>
 
-      <trans-unit id="vmnFXJC2DHSQ4D99ssqdd" resname="Membres Associés21">
+      <trans-unit id="vmnFXJC2DHSQ4D99ssqdd" resname="201, rue Mostapha Maani - Casablanca">
         <source>201, rue Mostapha Maani - Casablanca</source>
         <target>201 شارع مصطفى المعاني - الدار البيضاء
         </target>
@@ -1192,13 +1192,13 @@
 
 
 
-      <trans-unit id="vmnFX3GDD99ssqdd" resname="Membres Associés21">
+      <trans-unit id="vmnFX3GDD99ssqdd" resname="Tél :0522 27578">
         <source>Tél :0522 27578</source>
         <target> الهاتف: 052227578
         </target>
       </trans-unit>
 
-      <trans-unit id="vmn3399sohdd" resname="Membres Associés21">
+      <trans-unit id="vmn3399sohdd" resname="e-mail : m3.jamai@yahoo.com">
         <source>e-mail : m3.jamai@yahoo.com</source>
         <target>البريد الإلكتروني: m3.jamai@yahoo.com
 
@@ -1207,13 +1207,13 @@
 
 
 
-      <trans-unit id="v3GGDD99qqs" resname="Membres Associés21">
+      <trans-unit id="v3GGDD99qqs" resname="Amal BOUHMIDA-BISES">
         <source>Amal BOUHMIDA-BISES</source>
         <target> أمل بوحميدة بيسيس
         </target>
       </trans-unit>
 
-      <trans-unit id="vmnFXJC2GGDD99ssqdd" resname="Membres Associés21">
+      <trans-unit id="vmnFXJC2GGDD99ssqdd" resname="Résidence Nesrat, 12 Lot El Malid, Maarif - Casablanca">
         <source>Résidence Nesrat, 12 Lot El Malid, Maarif - Casablanca</source>
         <target>12 لوط المولد ، المعارف - الدار البيضاء 201سكن نسرات ،
         </target>
@@ -1221,20 +1221,20 @@
 
 
 
-      <trans-unit id="vmnFXJC2GHHDssqdd" resname="Membres Associés21">
+      <trans-unit id="vmnFXJC2GHHDssqdd" resname="Tél : 05-37-20-22-13">
         <source>Tél : 05-37-20-22-13</source>
         <target>هاتف: 13-22-20-37-05
         </target>
       </trans-unit>
 
-      <trans-unit id="vmnFDGJDD99sohdd" resname="Membres Associés21">
+      <trans-unit id="vmnFDGJDD99sohdd" resname="e-mail : amal_bouhmida@hotmail.com">
         <source>e-mail : amal_bouhmida@hotmail.com </source>
         <target>البريد الإلكتروني: amal_bouhmida@hotmail.com
         </target>
       </trans-unit>
 
 
-      <trans-unit id="vmnFXJDDDGDD99qqs" resname="Membres Associés21">
+      <trans-unit id="vmnFXJDDDGDD99qqs" resname="Mohamed JAMAI">
         <source>Mohamed JAMAI
         </source>
         <target> محمد جامعي
@@ -1242,7 +1242,7 @@
         </target>
       </trans-unit>
 
-      <trans-unit id="vmnFXJC2GGFJFd" resname="Membres Associés21">
+      <trans-unit id="vmnFXJC2GGFJFd" resname="201, rue Mostapha Maani - Casablanca">
         <source>201, rue Mostapha Maani - Casablanca
         </source>
         <target>201 شارع مصطفى المعاني - الدار البيضاء
@@ -1252,7 +1252,7 @@
 
 
 
-      <trans-unit id="vmnFXJC2GGHFHFDssqdd" resname="Membres Associés21">
+      <trans-unit id="vmnFXJC2GGHFHFDssqdd" resname="Tél :0522 27578">
         <source>Tél :0522 27578
         </source>
         <target>الهاتف: 052227578
@@ -1260,12 +1260,105 @@
         </target>
       </trans-unit>
 
-      <trans-unit id="vmnFXJC2GGDD99454Gdd" resname="Membres Associés21">
+      <trans-unit id="vmnFXJC2GGDD99454Gdd" resname="e-mail : m3.jamai@yahoo.com1">
         <source>e-mail : m3.jamai@yahoo.com</source>
         <target>البريد الإلكتروني: m3.jamai@yahoo.com
 
         </target>
       </trans-unit>
+
+
+      <trans-unit id="vmnFXJali54Gdd" resname="Mustapha SAFOUAN">
+        <source>Mustapha SAFOUAN</source>
+        <target>مصطفى صفوان</target>
+      </trans-unit>
+
+
+      <trans-unit id="vmnFXJafffdi54diioGdd" resname="J.BENNANI">
+        <source>J.BENNANI</source>
+        <target>بناني</target>
+      </trans-unit>
+
+
+      <trans-unit id="vmnFXJali54dsccszeiioGdid" resname="A.DACHMI">
+        <source>A.DACHMI</source>
+        <target>داشمي</target>
+      </trans-unit>
+
+
+      <trans-unit id="vmnFXJali54dqlyyiioGdd" resname="F.MRINI">
+        <source>F.MRINI</source>
+        <target>داشمي</target>
+      </trans-unit>
+
+      <trans-unit id="vmnFXJalmdqlzeiioGdd" resname="M.JAMAI">
+        <source>M.JAMAI</source>
+        <target>الجامعي</target>
+      </trans-unit>
+
+
+     <trans-unit id="vmnFtestalssdqlzeiioGdd" resname="OUARDANI">
+        <source>OUARDANI</source>
+        <target>ورداني</target>
+      </trans-unit>
+
+      <trans-unit id="vmnFtestalsdszlzeiioGdd" resname="A.OUARDANI">
+        <source>A.OUARDANI</source>
+        <target>ورداني</target>
+      </trans-unit>
+
+     <trans-unit id="vmnFtttalssdqlzeiioGdd" resname="K EL ALJ">
+        <source>K EL ALJ</source>
+        <target>العلج</target>
+      </trans-unit>
+
+      <trans-unit id="vmnddftestalssdqlzeiioGdd" resname="F.MRINI">
+        <source>F.MRINI</source>
+        <target>المريني</target>
+      </trans-unit>
+
+      <trans-unit id="vmnddftestalssdsqfzeiioGdd" resname="Souad HAMDANI">
+        <source>Souad HAMDANI</source>
+        <target>سعاد الحمداني</target>
+      </trans-unit>
+
+      <trans-unit id="vmnddftestalssshjqfzeiioGdd" resname="H TYAL">
+        <source>H TYAL</source>
+        <target>تايال</target>
+      </trans-unit>
+
+      <trans-unit id="vmnddfteppppfzeiioGdd" resname="Fethi BENSLAMA">
+        <source>Fethi BENSLAMA</source>
+        <target>فتحي بن سلامة</target>
+      </trans-unit>
+
+      <trans-unit id="vmsnddftzertiioGdd" resname="ARTICLE">
+        <source>ARTICLE</source>
+        <target>  بند</target>
+      </trans-unit>
+
+      <trans-unit id="vmsnddftzertfrttfGdd" resname="200, Bvd Ziraoui">
+        <source>200, Bvd Ziraoui</source>
+        <target>  200 ببد الزيراوي</target>
+      </trans-unit>
+
+      <trans-unit id="vmsnddftzeddsshttfGdd" resname="conformément">
+        <source>conformément</source>
+        <target>وفقا
+        </target>
+      </trans-unit>
+
+      <trans-unit id="vmsnddftssddcxhttfGdd" resname="aux dispositions du dahir">
+        <source>aux dispositions du dahir</source>
+        <target>لأحكام الظهير</target>
+      </trans-unit>
+
+      <trans-unit id="vmssdjjkkhhhttfGdd" resname="du 3 Joumada I">
+        <source>du 3 Joumada I</source>
+        <target>من 3 جمادى الأولى</target>
+      </trans-unit>
+
+
 
 
 

@@ -50,7 +50,7 @@ class PostType extends AbstractType
                 'label' => 'Votre message'
             ])
             ->add('img', FileType::class, [
-                'label' => 'Ajoutez une image',
+                'label' => 'Ajoutez une image ou un fichier',
 
                 // unmapped means that this field is not associated to any entity property
                 'mapped' => false,

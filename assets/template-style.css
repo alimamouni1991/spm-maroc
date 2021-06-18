@@ -2088,11 +2088,4 @@ video {
     padding: 0;
   }
 }
-@media screen and (max-width: 768px) {
-  .background-image {
-    background-position: center;
-  } 
-  nav.background-transparent.background-transparent-hightlight .s-12.l-2 {
-    width: 100%;
-  }
-}
+

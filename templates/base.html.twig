@@ -28,6 +28,7 @@
         <link href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-tagsinput/0.8.0/bootstrap-tagsinput-typeahead.css"
               rel="stylesheet" type="text/css"/>
         <link href="https://fonts.googleapis.com/css?family=Righteous&display=swap" rel="stylesheet">
+        <link href="{{ asset('responsee.css') }}" rel="stylesheet">
 
     {% endblock %}
     <style>
@@ -57,42 +58,19 @@
             }
         }
 
-/*
-
-        @media screen and (max-width: 768px)
-            .nav-text {
-                color: #fff;
-                display: inline-block;
-                margin-right: 0;
-                width: auto;
-                position: fixed;
-                top: 0;
-                left: 0;
-                background: none repeat scroll 0 0 #1c3849;
-                height: 60px;
-                width: 60px;
-                text-align: center;
-                line-height: 60px;
-                z-index: 50;
-                padding-top: 15px;
+        @media(max-width:544px) {
+            #nav3.navbar .navbar-brand {
+                float:none;
+                display: block;
             }
-
-            @media screen and (max-width: 768px)
-            nav {
-                padding: 10px 0;
-                height: 60px;
+            #nav3.navbar .navbar-nav>.nav-item {
+                float: none;
+                margin-left: .1rem;
             }
-
-            @media screen and (max-width: 768px)
-            nav {
-                padding: 10px 0;
-                height: 60px;
+            #nav3.navbar .navbar-nav {
+                float:none !important;
             }
-            @media screen and (max-width: 768px)
-            header.position-absolute {
-                background: #fff none repeat scroll 0 0;
-                position: relative;
-            }*/
+        }
 
 
     </style>
@@ -103,7 +81,7 @@
     <div class="container">
         <img class="logo-dark" src="{{ asset('logo_spm.png') }}" alt="" style="vertical-align: middle !important;
     border-style: none !important;">
-        <div class="collapse navbar-collapse" id="navbarResponsive">
+        <div class="collapse navbar-collapse" id="nav3">
             <ul class="navbar-nav ml-auto">
                 <li class="nav-item active">
                     <a class="nav-link" href="{{ path('home') }}" style="font-size: 22px; color: black ;font-family: Impact">
@@ -116,8 +94,8 @@
                         {{ 'Publications'|trans }}</a>
                 </li>
                 {% if is_granted('ROLE_USER') %}
-                    <li class="nav-item">
-                        <a class="nav-link" href="{{ path('post_create') }}" style="font-size: 20px; color: black ;font-family: Impact">{{ 'Exprimez vous'|trans }}</a>
+                    <li class="nav-item">{#font-style: italic;#}
+                        <a class="nav-link" href="{{ path('post_create') }}" style="font-size: 20px; color: black ;font-family: Impact; ">{{ 'Exprimez vous'|trans }}</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="{{ path('app_logout') }}" style="font-size: 20px; color: black ;font-family: Impact">{{'Déconnexion'|trans}}</a>
